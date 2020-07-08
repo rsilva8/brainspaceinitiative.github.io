@@ -14,8 +14,8 @@ title: "Brain Space Initiative"
 shortTitle: "BSI"
 email: "brain.space.initiative@gmail.com"
 description: "Open virtual talks on neuroimaging"
-baseurl: "/zeppelin"
-url: "http://esalman.com/zeppelin"
+baseurl: "/"
+url: "https://brainspaceinitiative.github.io/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 
