@@ -45,6 +45,7 @@ c4sponsorsUrl:
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/resources/", text: "Educational Resources"}
+ - {permalink: "/study-groups/", text: "Study Groups"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/about/", text: "About"}
