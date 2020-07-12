@@ -185,7 +185,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://esalman.com/zeppelin/", text: "Brain Space Initiative"}
+   - {link: "https://brainspaceinitiative.github.io/", text: "Brain Space Initiative"}
  -
   title: "Contacts"
   links:
