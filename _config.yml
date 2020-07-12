@@ -8,12 +8,11 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Brain Space Initiative"
 shortTitle: "BSI"
 email: "brain.space.initiative@gmail.com"
-description: "Open virtual talks on neuroimaging"
+description: "A venue promoting equal opportunity for brain research"
 baseurl: "/"
 url: "https://brainspaceinitiative.github.io/"
 permalink: "/blog/:title"
@@ -40,7 +39,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: 
 c4sponsorsUrl: 
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -57,7 +55,7 @@ bottomNavigationLinks:
  - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 rightNavigationButtons:
  - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
-
+ 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative:"
@@ -67,7 +65,7 @@ typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
  - {link: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
-
+ 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
