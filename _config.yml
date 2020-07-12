@@ -60,8 +60,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative <typeout>"
-#AI: eventDate: "2020"
-typeoutTextValues: '"", "(Open Brain Science)", "Neuroimaging", "Data Science", "Diversity", "Neuroinformatics", "Biomarkers", "Brain Disease"'
+# eventDate: "2020"
+typeoutTextValues: '"", ": Specialized Study Groups", ": Scientific Panel Discussions", ": Virtual Learning Environments", ": Multiteam Collaborations", ": Brain Research", ": Neuroimaging", ": Data Science", ": Neuroinformatics", ": Feedback on Ongoing Studies", ": Mentoring", ": Improve Research Quality:"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
