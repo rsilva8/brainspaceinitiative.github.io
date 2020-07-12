@@ -183,7 +183,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://brainspaceinitiative.github.io/", text: "Brain Space Initiative"}
+   - {permalink: "/", text: "Brain Space Initiative"}
  -
   title: "Contacts"
   links:
