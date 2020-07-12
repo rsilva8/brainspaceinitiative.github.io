@@ -8,12 +8,11 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Brain Space Initiative"
 shortTitle: "BSI"
 email: "brain.space.initiative@gmail.com"
-description: "Open virtual talks on neuroimaging"
+description: "A venue promoting equal opportunity for brain research"
 baseurl: "/"
 url: "https://brainspaceinitiative.github.io/"
 permalink: "/blog/:title"
@@ -30,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://trendscenter.org/"
 
 # Head
-metaKeywords: "Neuroimaging, Data Science, Neuroinformatics, Biomarkers, Brain disease"
+metaKeywords: "Specialized Study Groups, Scientific Panel Discussions, Virtual Learning Environments, Multiteam Collaborations, Brain Research, Neuroimaging, Data Science, Neuroinformatics, Feedback on Ongoing Studies, Mentoring, Improve Research Quality"
 twitterAccount: "@BrainSpaceInit"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -40,33 +39,33 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: 
 c4sponsorsUrl: 
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/study-groups/", text: "Study Groups"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ #AI - {permalink: "/resources/", text: "Educational Resources"}
+ - {permalink: "/talk-series/", text: "Talk Series"}
+ - {permalink: "/communities-and-partners/", text: "Communities and Partners"}
+ - {permalink: "/news-and-announcements/", text: "News and Announcements"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {permalink: "/about/", text: "Become a speaker"}
+ - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 rightNavigationButtons:
- - {permalink: "/about/", text: "Become a speaker"}
-
+ - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
+ 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Brain Space Initiative <typeout>"
-eventDate: "2020"
-typeoutTextValues: '"", "Neuroimaging", "Data Science", "Neuroinformatics", "Biomarkers", "Brain Disease"'
+heroTitle: "Brain Space Initiative:"
+eventDate: "<typeout>"
+typeoutTextValues: '"", " Specialized Study Groups", " Scientific Panel Discussions", " Virtual Learning Environments", " Multiteam Collaborations", " Brain Research", " Neuroimaging", " Data Science", " Neuroinformatics", " Feedback on Ongoing Studies", " Mentoring", " Improve Research Quality"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
  - {link: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
-
+ 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
@@ -179,12 +178,12 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/BrainSpaceInit", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCUCAP3hVtUVJYA0g1zPqD3g/", icon: "youtube"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://esalman.com/zeppelin/", text: "Brain Space Initiative"}
+   - {link: "https://brainspaceinitiative.github.io/", text: "Brain Space Initiative"}
  -
   title: "Contacts"
   links:
