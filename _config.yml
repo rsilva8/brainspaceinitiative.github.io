@@ -54,14 +54,14 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {permalink: "/about/", text: "Become a speaker"}
+ - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 rightNavigationButtons:
- - {permalink: "/about/", text: "Become a speaker"}
+ - {permalink: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative:"
-#eventDate: "<typeout>"
+eventDate: "<typeout>"
 typeoutTextValues: '"", " Specialized Study Groups", " Scientific Panel Discussions", " Virtual Learning Environments", " Multiteam Collaborations", " Brain Research", " Neuroimaging", " Data Science", " Neuroinformatics", " Feedback on Ongoing Studies", " Mentoring", " Improve Research Quality"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
@@ -180,7 +180,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/BrainSpaceInit", icon: "twitter"}
  - {link: "https://www.youtube.com/channel/UCUCAP3hVtUVJYA0g1zPqD3g/", icon: "youtube"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
