@@ -3,7 +3,7 @@
   title: "TBA"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [7]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -12,7 +12,7 @@
   title: "Probing the brain at the limits of fMRI"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [6]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -21,7 +21,7 @@
   title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -30,7 +30,7 @@
   title: "TBA"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [4]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -39,7 +39,7 @@
   title: "TBA"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [3]
   language: en
   complexity: "Intermediate"
   video: ""
