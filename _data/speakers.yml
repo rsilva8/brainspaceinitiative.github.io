@@ -3,7 +3,7 @@
   name: "Armin"
   surname: "Iraji"
   company: "TReNDS Center"
-  title: "Post-Doctoral Fellow"
+  title: "Research Scientist"
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -16,7 +16,7 @@
   company: "TReNDS Center [GSU|GATech|Emory]"
   title: "Founding Director & Distinguished University Professor"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: "https://trendscenter.org/vince-calhoun/"
   rockstar: true
   social: 
     - {name: "", link: ""}
