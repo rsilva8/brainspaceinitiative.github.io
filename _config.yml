@@ -61,7 +61,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative <typeout>"
 #AI: eventDate: "2020"
-typeoutTextValues: '"", "Neuroimaging", "Data Science", "Neuroinformatics", "Biomarkers", "Brain Disease"'
+typeoutTextValues: '"", "(Open Brain Science)", "Neuroimaging", "Data Science", "Diversity", "Neuroinformatics", "Biomarkers", "Brain Disease"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
