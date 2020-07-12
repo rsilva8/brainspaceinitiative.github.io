@@ -60,7 +60,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Brain Space Initiative"
+heroTitle: "Brain Space Initiative:"
 #eventDate: "<typeout>"
 typeoutTextValues: '"", " Specialized Study Groups", " Scientific Panel Discussions", " Virtual Learning Environments", " Multiteam Collaborations", " Brain Research", " Neuroimaging", " Data Science", " Neuroinformatics", " Feedback on Ongoing Studies", " Mentoring", " Improve Research Quality"'
 typeoutFallback: "Neuroimaging"
