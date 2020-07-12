@@ -60,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative <typeout>"
-eventDate: "2020"
+#AI: eventDate: "2020"
 typeoutTextValues: '"", "Neuroimaging", "Data Science", "Neuroinformatics", "Biomarkers", "Brain Disease"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
