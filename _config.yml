@@ -44,11 +44,12 @@ c4sponsorsUrl:
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/study-groups/", text: "Study Groups"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/about/", text: "About"}
+ #AI - {permalink: "/resources/", text: "Educational Resources"}
+ - {permalink: "/talk-series/", text: "Talk Series"}
+ - {permalink: "/communities-and-partners/", text: "Communities and Partners"}
+ - {permalink: "/news-and-announcements/", text: "News and Announcements"}
+ - {permalink: "/about/", text: "About"} News and announcement
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
