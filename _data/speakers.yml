@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Armin"
   surname: "Iraji"
   company: "TReNDS Center"
@@ -9,3 +9,102 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 2
+  name: "Vince"
+  surname: "Calhoun"
+  company: "TReNDS Center [GSU|GATech|Emory]"
+  title: "Founding Director & Distinguished University Professor"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 3
+  name: "Lucina"
+  surname: "Uddin"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 4
+  name: "Jessica"
+  surname: "Turner"
+  company: "TReNDS Center [GSU|GATech|Emory]"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 5
+  name: "Simon"
+  surname: "Eickhoff"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 6
+  name: "Peter"
+  surname: "Bandettini"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 7
+  name: "Shella"
+  surname: "Keilholz"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 8
+  name: "Shen"
+  surname: "Li"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 9
+  name: "Russ"
+  surname: "Poldrack"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 10
+  name: "Bharat"
+  surname: "Biswal"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}

@@ -1,9 +1,9 @@
 -
   id: 001
-  title: "Tools of the trade"
-  description: "Estimating time-varying connectivity patterns from fMRI data"
+  title: "Neuroimaging"
+  description: ""
   subtype: workshop
-  speakers: [3]
+  speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: ""
