@@ -1,8 +1,53 @@
 -
-  id: 001
-  title: "Neuroimaging"
+  id: 006
+  title: "TBA"
   description: ""
-  subtype: workshop
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 005
+  title: "Probing the brain at the limits of fMRI"
+  description: ""
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 004
+  title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
+  description: ""
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 003
+  title: "TBA"
+  description: ""
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 002
+  title: "TBA"
+  description: ""
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 001
+  title: "TBA"
+  description: ""
+  subtype: talk
   speakers: [2]
   language: en
   complexity: "Intermediate"
