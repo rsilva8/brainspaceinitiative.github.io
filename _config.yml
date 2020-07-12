@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/talk-series/", text: "Talk Series"}
  - {permalink: "/communities-and-partners/", text: "Communities and Partners"}
  - {permalink: "/news-and-announcements/", text: "News and Announcements"}
- - {permalink: "/about/", text: "About"} News and announcement
+ - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
