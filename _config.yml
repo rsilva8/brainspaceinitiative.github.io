@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://trendscenter.org/"
 
 # Head
-metaKeywords: "Neuroimaging, Data Science, Neuroinformatics, Biomarkers, Brain disease"
+metaKeywords: "Specialized Study Groups, Scientific Panel Discussions, Virtual Learning Environments, Multiteam Collaborations, Brain Research, Neuroimaging, Data Science, Neuroinformatics, Feedback on Ongoing Studies, Mentoring, Improve Research Quality"
 twitterAccount: "@BrainSpaceInit"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -59,9 +59,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Brain Space Initiative<typeout>"
+heroTitle: "Brain Space Initiative:<typeout>"
 # eventDate: "2020"
-typeoutTextValues: '"", ": Specialized Study Groups", ": Scientific Panel Discussions", ": Virtual Learning Environments", ": Multiteam Collaborations", ": Brain Research", ": Neuroimaging", ": Data Science", ": Neuroinformatics", ": Feedback on Ongoing Studies", ": Mentoring", ": Improve Research Quality:"'
+typeoutTextValues: '"", " Specialized Study Groups", " Scientific Panel Discussions", " Virtual Learning Environments", " Multiteam Collaborations", " Brain Research", " Neuroimaging", " Data Science", " Neuroinformatics", " Feedback on Ongoing Studies", " Mentoring", " Improve Research Quality"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
