@@ -1,21 +1,36 @@
 <!-- About Study Groups Section -->
 <section id="study-groups" class="study-groups">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
-            <h3>Join Our Study Groups</h3>
-            {% for row in site.data.studygroups %}
-            {% assign check = forloop.index0 | modulo:2 %}
-            <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
-                <div class="hackathon-img-wrapper animated hiding" data-animation="{% if check == 0 %}fadeInLeft{% else %}fadeInRight{% endif %}" data-delay="0">
-                    <img class="img-responsive" src="{{ site.baseurl }}/img/hackathon/{{ row.image }}" alt="Hackathon">
-                </div>
-                <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
-                    <h4>{{ row.title }}</h4>
-                    <p>{{ row.details }}</p>
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+            {% for studygroup in site.data.studygroups %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+                <div class="zoe-effect ribbon-activator">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: studygroup.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        {% if studygroup.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in studygroup.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ studygroup.title }}</span></h2>
+                            </div>
+                            {% endfor %}
+                        </figcaption>
+                        <p class="bio">{{ studygroup.details | strip_html }}</p>
+                    </figure>
                 </div>
             </div>
             {% endfor %}
         </div>
+        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Join now</a>         
     </div>
 </section>
-<!-- End Study Groups Section -->
+<!-- End Study Groups Section-->
+
