@@ -1,8 +1,40 @@
-- {title: "Cognitive neuroscience", image: "hackathon-0.png", details: ""}
-- {title: "Data sharing and population neuroscience", image: "hackathon-0.png", details: ""}
-- {title: "Deep learning", image: "hackathon-0.png", details: ""}
-- {title: "Dynamic activity/connectivity analysis", image: "hackathon-0.png", details: ""}
-- {title: "Imaging genomics", image: "hackathon-0.png", details: ""}
-- {title: "Multimodal data fusion of brain imaging data", image: "hackathon-0.png", details: ""}
-- {title: "Multivariate and Blind Subspace Methods", image: "hackathon-0.png", details: ""}
-- {title: "Neurodegenerative diseases", image: "hackathon-0.png", details: ""}
+- {
+  title: "Cognitive neuroscience", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Data sharing and population neuroscience", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Deep learning", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Dynamic activity/connectivity analysis", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Imaging genomics", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Multimodal data fusion of brain imaging data", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Multivariate and Blind Subspace Methods", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
+- {
+  title: "Neurodegenerative diseases", 
+  image: "hackathon-0.png", 
+  details: ""
+  }
