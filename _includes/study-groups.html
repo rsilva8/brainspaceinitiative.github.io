@@ -19,7 +19,7 @@
                         {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name">{{ studygroup.title }}</span></h2>
+                                <h2 class="name"><a href="{{studygroup.link}}">{{ studygroup.title }}</a></h2>
                             </div>
                         </figcaption>
                         <p class="bio">{{ studygroup.details | strip_html }}</p>
