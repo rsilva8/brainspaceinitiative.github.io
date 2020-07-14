@@ -6,35 +6,42 @@
 - {
   title: "Data sharing and population neuroscience", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Deep learning", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Dynamic activity/connectivity analysis", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Imaging genomics", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Multimodal data fusion of brain imaging data", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Multivariate and Blind Subspace Methods", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
 - {
   title: "Neurodegenerative diseases", 
   image: "hackathon-0.png", 
-  details: ""
+  details: "",
+  link: 'include/data-sharing.md'
   }
