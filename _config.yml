@@ -7,6 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+include: 
 
 # Site Settings
 title: "Brain Space Initiative"
