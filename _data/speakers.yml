@@ -4,6 +4,7 @@
   surname: "Iraji"
   company: "TReNDS Center"
   title: "Research Scientist"
+  team: true
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -15,6 +16,7 @@
   surname: "Calhoun"
   company: "TReNDS Center [GSU|GATech|Emory]"
   title: "Founding Director & Distinguished University Professor"
+  team: true
   bio: ""
   thumbnailUrl: "https://trendscenter.org/vince-calhoun/"
   rockstar: true
@@ -26,6 +28,7 @@
   surname: "Uddin"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -37,6 +40,7 @@
   surname: "Turner"
   company: "TReNDS Center [GSU|GATech|Emory]"
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -48,6 +52,7 @@
   surname: "Eickhoff"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -59,6 +64,7 @@
   surname: "Bandettini"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -70,6 +76,7 @@
   surname: "Keilholz"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -81,6 +88,7 @@
   surname: "Li"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -92,6 +100,7 @@
   surname: "Poldrack"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
@@ -103,8 +112,139 @@
   surname: "Biswal"
   company: ""
   title: ""
+  team: false
   bio: ""
   thumbnailUrl: 
   rockstar: true
   social: 
     - {name: "", link: ""}
+- 
+  id: 11
+  name: "Jiayu"
+  surname: "Chen"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 12
+  name: "Robyn"
+  surname: "Miller"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 13
+  name: "Zening"
+  surname: "Fu"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 14
+  name: "Jeremy"
+  surname: "Bockholt"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 15
+  name: "Anees"
+  surname: "Abrol"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 16
+  name: "Jeffrey"
+  surname: "Malins"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 17
+  name: "Enrico"
+  surname: "Premi"
+  company: ""
+  title: ""
+  team: true
+  bio: "I attended medical school at the University of Brescia (Italy), completing my residency program in Neurology at University of Brescia (Prof. Alessandro Padovani) in 2012. During this period, I had had the opportunity to increase my expertise in the field of neurodegenerative diseases (Prof. Barbara Borroni, Prof. Alessandro Padovani) from a clinical and research point of view. I focused my research interests on neuroimaging  (2007: San Raffaele University, Milan, Italy: Prof. Perani; 2009: SPM course, UCL, London, UK; 2012: Neuroimaging Lab, Fondazione “S.Lucia”, Rome, Italy, Prof. Bozzali). I currently have a permanent contract as clinical neurologist in the Stroke Unit, ASST “Spedali Civili” (Brescia, Italy): my everyday clinical practise is focused on the clinical evaluation and treatment of patients with cerebrovascular diseases (ischemic and haemorragic stroke). In parallel, I continued my research activity in collaboration with the Neurology Unit, Department of Clinical and Experimental Sciences, University of Brescia. Since my residency period my research interests was focused on the application of advanced neuroimaging techniques to neurodegenerative diseases, in particular Frontotemporal Dementia (FTD) to explore structural and functional correlates of the disease. In the last years I explored in particular: i) the preclinical phase of FTD (studying presymptomatic carriers of FTD causative mutations), ii) the behavioral/neuroimaging correlates in FTD, iii) the neuroanatomical correlates of Cognitive Reserve in FTD, iv) the utilization of advanced statistical approaches to clinical neuroimaging in neurodegenerative diseases."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 18
+  name: "Rogers Ferreira Da"
+  surname: "Silva"
+  company: ""
+  title: ""
+  team: true
+  bio: "Dr. Rogers F. Silva is a multidisciplinary scientist with extensive experience developing algorithms for statistical and machine learning, image analysis, numerical optimization, memory-efficient large-scale data reduction, and distributed analyses of big multimodal, multi-subject neuroimaging data.
+Interests:
+    His research interests include · heterogeneous multimodal data fusion · deep statistical and machine learning · image, video and data analysis · multiobjective, combinatorial and constrained optimization · image and signal processing · multimodal neuroimaging
+Research:
+    As a modeling-oriented scientist actively conducting research on novel multimodal multidimensional learning (MML) methods for brain research, Dr. Silva leverages his multidisciplinary background to create new algorithms for deep unsupervised learning that can fully leverage the joint information and shared variability contained in heterogeneous multimodal (or multiview) datasets. He also develops new algorithms for federated learning of private multi-site data, seeking to enable collaborative research that can take advantage of decentralized datasets without requiring direct access to data stored in remote data centers.
+Education:
+    He received the B.Sc. degree in Electrical Engineering in 2003 from the Catholic University (PUCRS), Porto Alegre, Brazil, the M.S. degree in Computer Engineering (with minors in Statistics and in Mathematics) in 2011, and the Ph.D. degree (with distinction) in Computer Engineering in 2017, both from The University of New Mexico, Albuquerque, NM, USA.
+Additional Training:
+    He also received training in diffusion spectrum imaging at CMU and University of Pittsburgh in 2016, multimodal brain imaging at the MGH Martinos Center and Harvard/MIT in 2016, and deep learning at MILA, University of Montreal in 2017.
+Experience:
+    Before joining the TReNDS Center, Dr. Silva developed novel approaches for multimodal medical image analysis as a Postdoctoral Fellow at the Mind Research Network, in addition to client-centric tools and processes using machine learning and statistical analysis as a Data Scientist with Datalytic Solutions. Previously, he also had experience as an engineer, lecturer, and consultant."
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 19
+  name: "Jingyu"
+  surname: "Liu, PhD."
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 20
+  name: "Mustafa"
+  surname: "Salman"
+  company: ""
+  title: ""
+  team: true
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/esalman"}
