@@ -201,7 +201,7 @@ blogCommentsEnabled: true
 discusShortName: 
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
