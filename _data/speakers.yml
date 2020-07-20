@@ -1,125 +1,6 @@
+# THE FOLLOWING ARE TEAM MEMBERS. SEE BELOW FOR ACTUAL SPEAKERS
 - 
   id: 1
-  name: "Armin"
-  surname: "Iraji"
-  company: "TReNDS Center"
-  title: "Research Scientist"
-  team: true
-  bio: ""
-  thumbnailUrl: armin.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 2
-  name: "Vince"
-  surname: "Calhoun"
-  company: "TReNDS Center [GSU|GATech|Emory]"
-  title: "Founding Director & Distinguished University Professor"
-  team: true
-  bio: ""
-  thumbnailUrl: "https://trendscenter.org/vince-calhoun/"
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/vdcalhoun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"}
-- 
-  id: 3
-  name: "Lucina"
-  surname: "Uddin"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Jessica"
-  surname: "Turner"
-  company: "TReNDS Center [GSU|GATech|Emory]"
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 5
-  name: "Simon"
-  surname: "Eickhoff"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 6
-  name: "Peter"
-  surname: "Bandettini"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 7
-  name: "Shella"
-  surname: "Keilholz"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 8
-  name: "Shen"
-  surname: "Li"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 9
-  name: "Russ"
-  surname: "Poldrack"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 10
-  name: "Bharat"
-  surname: "Biswal"
-  company: ""
-  title: ""
-  team: false
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 11
   name: "Jiayu"
   surname: "Chen"
   company: ""
@@ -131,7 +12,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 12
+  id: 2
   name: "Robyn"
   surname: "Miller"
   company: ""
@@ -143,7 +24,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 13
+  id: 3
   name: "Zening"
   surname: "Fu"
   company: ""
@@ -155,7 +36,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 14
+  id: 4
   name: "Jeremy"
   surname: "Bockholt"
   company: ""
@@ -167,7 +48,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 15
+  id: 5
   name: "Anees"
   surname: "Abrol"
   company: ""
@@ -179,7 +60,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 16
+  id: 6
   name: "Jeffrey"
   surname: "Malins"
   company: ""
@@ -191,7 +72,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 17
+  id: 7
   name: "Enrico"
   surname: "Premi"
   company: ""
@@ -203,7 +84,7 @@
   social: 
     - {name: "", link: ""}
 - 
-  id: 18
+  id: 8
   name: "Rogers Ferreira Da"
   surname: "Silva"
   company: ""
@@ -225,7 +106,19 @@ Experience:
   social: 
     - {name: "", link: ""}
 - 
-  id: 19
+  id: 9
+  name: "Vince"
+  surname: "Calhoun"
+  company: "TReNDS Center [GSU|GATech|Emory]"
+  title: "Founding Director & Distinguished University Professor"
+  team: true
+  bio: ""
+  thumbnailUrl: "https://trendscenter.org/vince-calhoun/"
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/vdcalhoun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"}
+- 
+  id: 10
   name: "Jingyu"
   surname: "Liu, PhD."
   company: ""
@@ -237,7 +130,19 @@ Experience:
   social: 
     - {name: "", link: ""}
 - 
-  id: 20
+  id: 11
+  name: "Armin"
+  surname: "Iraji"
+  company: "TReNDS Center"
+  title: "Research Scientist"
+  team: true
+  bio: ""
+  thumbnailUrl: armin.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 12
   name: "Mustafa"
   surname: "Salman"
   company: ""
@@ -248,3 +153,101 @@ Experience:
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/esalman"}
+
+# THE FOLLOWING ARE ACTUAL SPEAKERS
+- 
+  id: 101
+  name: "Lucina"
+  surname: "Uddin"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+  id: 102
+  name: "Jessica"
+  surname: "Turner"
+  company: "TReNDS Center [GSU|GATech|Emory]"
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 103
+  name: "Simon"
+  surname: "Eickhoff"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 104
+  name: "Peter"
+  surname: "Bandettini"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 105
+  name: "Shella"
+  surname: "Keilholz"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 106
+  name: "Shen"
+  surname: "Li"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 107
+  name: "Russ"
+  surname: "Poldrack"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 108
+  name: "Bharat"
+  surname: "Biswal"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}

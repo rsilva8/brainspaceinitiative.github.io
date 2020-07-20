@@ -1,5 +1,5 @@
 - 
-  id: 0
+  id: 1
   name: "Jiayu"
   surname: "Chen"
   title: "Imaging genomics"
@@ -12,7 +12,7 @@
     - {name: "github", link: "https://github.com/zasadnyy"}
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
-  id: 1
+  id: 2
   name: "Robyn"
   surname: "Miller"
   title: ": Dynamic activity/connectivity analysis"
@@ -23,7 +23,7 @@
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
-  id: 2
+  id: 3
   name: "Zening"
   surname: "Fu"
   title: "Multimodal data fusion of brain imaging data"
@@ -35,7 +35,7 @@
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
-  id: 3
+  id: 4
   name: "Jeremy"
   surname: "Bockholt"
   title: "Data sharing and population neuroscience"
@@ -46,7 +46,7 @@
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 4
+  id: 5
   name: "Anees"
   surname: "Abrol"
   title: "Deep learning"
@@ -56,7 +56,7 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 5
+  id: 6
   name: "Jeffrey"
   surname: "Malins"
   title: "Cognitive neuroscience"
@@ -66,7 +66,7 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 6
+  id: 7
   name: "Enrico"
   surname: "Premi"
   title: "Neurodegenerative diseases"
@@ -75,7 +75,7 @@
   social: 
     - {name: "google-scholar", link: "https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ&user=4gtEDjoAAAAJ"}
 - 
-  id: 7
+  id: 8
   name: "Rogers Ferreira Da"
   surname: "Silva"
   title: "Multivariate and Blind Subspace Methods"
@@ -85,7 +85,7 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 31
+  id: 9
   name: "Vince D."
   surname: "Calhoun, PhD."
   title: ""
@@ -96,7 +96,7 @@
     - {name: "site", link: "http://olostan.name/"}
 - 
 - 
-  id: 32
+  id: 10
   name: "Jingyu"
   surname: "Liu, PhD."
   title: ""
@@ -107,7 +107,7 @@
     - {name: "site", link: "http://olostan.name/"}
 - 
 - 
-  id: 33
+  id: 11
   name: "Armin"
   surname: "Iraji"
   title: ""
@@ -117,7 +117,7 @@
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
 - 
-  id: 51
+  id: 12
   name: "Mustafa"
   surname: "Salman"
   title: "Technical Advisor"
