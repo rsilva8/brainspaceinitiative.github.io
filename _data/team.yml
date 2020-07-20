@@ -7,10 +7,6 @@
   studygroup: true
   ribbon: 
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 2
   name: "Robyn"
@@ -20,8 +16,6 @@
   studygroup: true
   ribbon: 
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 3
   name: "Zening"
@@ -31,9 +25,6 @@
   studygroup: true
   ribbon: 
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
   name: "Jeremy"
@@ -42,9 +33,6 @@
   thumbnailUrl: 
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
   name: "Anees"
@@ -53,8 +41,6 @@
   thumbnailUrl: 
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
   id: 6
   name: "Jeffrey"
@@ -63,8 +49,6 @@
   thumbnailUrl: 
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
   id: 7
   name: "Enrico"
@@ -73,7 +57,7 @@
   thumbnailUrl: Premi_Enrico.jpg
   studygroup: true
   social: 
-    - {name: "google-scholar", link: "https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ&user=4gtEDjoAAAAJ"}
+    - {name: "google-plus", link: "https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ&user=4gtEDjoAAAAJ"}
 - 
   id: 8
   name: "Rogers Ferreira Da"
@@ -82,8 +66,7 @@
   thumbnailUrl: rogers.png
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://scholar.google.com/citations?user=cMtwwG8AAAAJ&hl=en"}
 - 
   id: 9
   name: "Vince D."
@@ -92,8 +75,6 @@
   thumbnailUrl: 
   leadership: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
 - 
   id: 10
@@ -103,8 +84,6 @@
   thumbnailUrl: 
   leadership: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
 - 
   id: 11
@@ -114,8 +93,6 @@
   thumbnailUrl: armin.jpg
   leadership: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
   id: 12
   name: "Mustafa"
