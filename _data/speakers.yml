@@ -76,7 +76,7 @@
   thumbnailUrl: Malins_GSU_photo.jpg
   rockstar: true
   social: 
-    - {name: "Google Scholar", link: "https://scholar.google.com/citations?user=4zMfPiwAAAAJ&hl=en&oi=ao"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=4zMfPiwAAAAJ&hl=en&oi=ao"}
     - {name: "GSU Psychology", link: "https://psychology.gsu.edu/profile/jeffrey-malins/"}
     - {name: "ResearchGate", link: "https://www.researchgate.net/profile/Jeffrey_Malins"}
     - {name: "PubMed", link: "https://pubmed.ncbi.nlm.nih.gov/?term=Malins%20JG%5BAuthor%5D&cauthor=true&cauthor_uid=29440534"}
@@ -91,7 +91,7 @@
   thumbnailUrl: 
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-scholar", link: "https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fscholar.google.it%2Fcitations%3Fhl%3Den%26view_op%3Dlist_works%26gmla%3DAJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ%26user%3D4gtEDjoAAAAJ&data=02%7C01%7Cmsalman%40gsu.edu%7C1884095ae15347e37f6908d82a2e74c6%7C515ad73d8d5e4169895c9789dc742a70%7C0%7C0%7C637305726477532998&sdata=RBKbRLdFXtkqVczrwiV%2BVjj1u7LbUOXNgzxFPuQ63Mw%3D&reserved=0"}
 - 
   id: 8
   name: "Rogers Ferreira Da"
