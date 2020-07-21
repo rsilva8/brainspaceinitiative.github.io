@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Team
-permalink: /team/
+title: Data Sharing
+permalink: /study-groups/data-sharing
 color: "#1d1d1d"
-modal: team
 image: judges.jpg
 ---
 
- {% include top-section.html %}
+{% include top-section.html %}
 
- {% include team.html %}
+test content 
