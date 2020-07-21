@@ -66,11 +66,20 @@
   company: ""
   title: ""
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "Nice to meet you! I am an assistant professor in the Department of Psychology at Georgia State University, and I am also affiliated faculty with the GSU Center for Research on the Challenges of Acquiring Language and Literacy and the GSU Neuroscience Institute. Prior to joining the faculty at GSU, I was an Associate Research Scientist in Pediatrics at Yale University. I also completed a postdoctoral fellowship at Haskins Laboratories, where I remain a Research Affiliate.
+<br /><br />My research focuses on the brain networks that support reading, spoken language processing, and attentional control. I use neuroimaging to study how these networks overlap, diverge, and change over the course of learning. I also examine how different biological, cognitive, and environmental factors shape the connectivity of these networks. In my research, I work with numerous populations of learners, including school-age children, adolescents, and adults; individuals with reading, language, and/or attention deficits; and individuals who speak or read more than one language.
+<br /><br />Over the past few years, I have had the pleasure of working with several collaborators in the GSU community to study reading development in children. Using fMRI, we are currently looking at the intersection between the brain networks underlying reading and attentional control (Arrington, Malins, et al., 2019, Developmental Cognitive Neuroscience). We are also following up on a recent study suggesting that a certain amount of variability in brain activity may be beneficial for reading growth (Malins et al., 2018, Journal of Neuroscience). In the future, I am particularly interested in examining how diverse experiences with language – such as bilingual language experience in children – help to shape the brain networks that support literacy skills.
+<br /><br />I look forward to continuing to build connections with the neuroimaging community in Atlanta and beyond. Together, I hope we can find ways to connect brain research with current practices in education in order to help individuals reach their learning potential.
+<br /><br />Representative Publications:
+<br />Arrington, C.N., Malins, J.G., Winter, R., Mencl, W.E., Pugh, K.R., & Morris, R. (2019). Examining individual differences in reading and attentional control networks utilizing an oddball fMRI task. Developmental Cognitive Neuroscience, 38, 100674. DOI: https://doi.org/10.1016/j.dcn.2019.100674
+<br />Malins, J.G., Pugh, K.R., Buis, B., Frost, S.J., Hoeft, F., Landi, N., Mencl, W.E., Kurian, A., Staples, R., Molfese, P., Sevcik, R.A., & Morris, R. (2018). Individual differences in reading skill are related to trial-by-trial neural activation variability in the reading network. Journal of Neuroscience, 38(12), 2981-2989. DOI: https://doi.org/10.1523/JNEUROSCI.0907-17.2018"
+  thumbnailUrl: Malins_GSU_photo.jpg
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "Google Scholar", link: "https://scholar.google.com/citations?user=4zMfPiwAAAAJ&hl=en&oi=ao"}
+    - {name: "GSU Psychology", link: "https://psychology.gsu.edu/profile/jeffrey-malins/"}
+    - {name: "ResearchGate", link: "https://www.researchgate.net/profile/Jeffrey_Malins"}
+    - {name: "PubMed", link: "https://pubmed.ncbi.nlm.nih.gov/?term=Malins%20JG%5BAuthor%5D&cauthor=true&cauthor_uid=29440534"}
 - 
   id: 7
   name: "Enrico"
