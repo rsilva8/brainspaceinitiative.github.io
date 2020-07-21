@@ -49,8 +49,8 @@ navigationLinks:
  - {permalink: "/study-groups/", text: "Study Groups"}
  #AI - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/talk-series/", text: "Talk Series"}
- - {permalink: "/communities-and-partners/", text: "Communities and Partners"}
- - {permalink: "/news-and-announcements/", text: "News and Announcements"}
+ - {permalink: "/communities-partners/", text: "Communities & Partners"}
+ - {permalink: "/news-announcements/", text: "News & Announcements"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
