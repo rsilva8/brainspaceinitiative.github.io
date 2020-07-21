@@ -1,36 +1,9 @@
 -
-  id: 006
+  id: 001
   title: "TBA"
   description: ""
   subtype: talk
-  speakers: [7]
-  language: en
-  complexity: "Intermediate"
-  video: ""
--
-  id: 005
-  title: "Probing the brain at the limits of fMRI"
-  description: ""
-  subtype: talk
-  speakers: [6]
-  language: en
-  complexity: "Intermediate"
-  video: ""
--
-  id: 004
-  title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
-  description: ""
-  subtype: talk
-  speakers: [5]
-  language: en
-  complexity: "Intermediate"
-  video: ""
--
-  id: 003
-  title: "TBA"
-  description: ""
-  subtype: talk
-  speakers: [4]
+  speakers: [2]
   language: en
   complexity: "Intermediate"
   video: ""
@@ -44,11 +17,38 @@
   complexity: "Intermediate"
   video: ""
 -
-  id: 001
+  id: 003
   title: "TBA"
   description: ""
   subtype: talk
-  speakers: [2]
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 004
+  title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
+  description: ""
+  subtype: talk
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 005
+  title: "Probing the brain at the limits of fMRI"
+  description: ""
+  subtype: talk
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 006
+  title: "TBA"
+  description: ""
+  subtype: talk
+  speakers: [7]
   language: en
   complexity: "Intermediate"
   video: ""
