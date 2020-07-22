@@ -192,11 +192,11 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:brain.space.initiative@gmail.com", text: "brain.space.initiative@gmail.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/faq/", text: "Frequently Asked Questions"}
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/faq/", text: "Frequently Asked Questions"}
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
