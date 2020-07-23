@@ -5,6 +5,4 @@ permalink: /faq/
 isStaticPost: true
 ---
 
-#### Questions
-
-Answer
+### Coming soon!

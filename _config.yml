@@ -29,7 +29,7 @@ organizerName: "TReNDS Center"
 organizerAlternateName: "Center for Translational Research in Neuroimaging & Data Science"
 organizerDescription: "The Tri-Institutional Georgia State University/Georgia Institute of Technology/Emory University Center for Translational Research in Neuroimaging and Data Science (TReNDS) is focused on developing, applying and sharing advanced analytic approaches and neuroinformatics tools that leverage advanced brain imaging and omics data, with a goal of translating these approaches into biomarkers that can help address relevant areas of brain health and disease."
 organizerEmail: "brain.space.initiative@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/sprites/TReNDS_logo.png"
 organizerLink: "https://trendscenter.org/"
 
 # Head
@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/study-groups/", text: "Study Groups"}
  #AI - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/talk-series/", text: "Talk Series"}
-#  - {permalink: "/communities-partners/", text: "Communities & Partners"}
+ - {permalink: "/communities-partners/", text: "Communities & Partners"}
  - {permalink: "/news-announcements/", text: "News & Announcements"}
  - {permalink: "/about/", text: "About"}
-#  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -192,11 +192,11 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:brain.space.initiative@gmail.com", text: "brain.space.initiative@gmail.com"}
-#  -
-#   title: "FAQ"
-#   links:
-#    - {permalink: "/faq/", text: "Frequently Asked Questions"}
-#    - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"

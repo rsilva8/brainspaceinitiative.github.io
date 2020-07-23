@@ -1,4 +1,4 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "TReNDS Cebter", description: "The Tri-institutional Center for Translation Research in Neuroimaging & Data Science [Georgia State University | Georgia Tech | Emory University], Atlanta, GA, USA", link: "http://trendscener.org", imageUrl: "gdg-lviv.svg"}
+    - {name: "TReNDS Center", description: "The Tri-institutional Center for Translation Research in Neuroimaging & Data Science [Georgia State University | Georgia Tech | Emory University], Atlanta, GA, USA", link: "http://trendscener.org", imageUrl: "TReNDS_logo.png"}

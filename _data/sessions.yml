@@ -6,7 +6,6 @@
   speakers: [9]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 002
   title: "TBA"
@@ -15,7 +14,6 @@
   speakers: [101]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 003
   title: "TBA"
@@ -24,7 +22,6 @@
   speakers: [102]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 004
   title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
@@ -33,7 +30,6 @@
   speakers: [103]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 005
   title: "Probing the brain at the limits of fMRI"
@@ -42,7 +38,6 @@
   speakers: [104]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 006
   title: "TBA"
@@ -51,4 +46,3 @@
   speakers: [105]
   language: en
   complexity: "Intermediate"
-  video: ""
