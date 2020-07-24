@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/study-groups/", text: "Study Groups"}
  #AI - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/talk-series/", text: "Talk Series"}
- - {permalink: "/communities-partners/", text: "Communities & Partners"}
+#  - {permalink: "/communities-partners/", text: "Communities & Partners"}
  - {permalink: "/news-announcements/", text: "News & Announcements"}
  - {permalink: "/about/", text: "About"}
  - {permalink: "/team/", text: "Team"}
@@ -192,11 +192,11 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:brain.space.initiative@gmail.com", text: "brain.space.initiative@gmail.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/faq/", text: "Frequently Asked Questions"}
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/faq/", text: "Frequently Asked Questions"}
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
