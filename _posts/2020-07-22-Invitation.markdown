@@ -3,6 +3,7 @@ layout: post
 title:  "Brain Space Initiative Invitation"
 date:   2020-07-22 08:00:00
 isStaticPost: false
+image: banner_BSI_news.jpg
 ---
 
 We are thrilled to launch the Brain Space Initiative (BSI) on August 14th, an equal opportunity outreach program for researchers and students across the world. The BSI creates a platform for virtual collaborative learning environments beyond individuals’ teams, allowing researchers and students to interact with each other on a daily basis.

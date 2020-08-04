@@ -3,44 +3,50 @@
   name: "Jiayu"
   surname: "Chen"
   title: "Imaging genomics"
-  thumbnailUrl: 
+  thumbnailUrl: 'Bio-300x292.jpg'
   studygroup: true
   ribbon: 
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=Q480I1oAAAAJ"}
 - 
   id: 2
   name: "Robyn"
   surname: "Miller"
-  title: ": Dynamic activity/connectivity analysis"
-  thumbnailUrl: 
+  title: "Dynamic activity/connectivity analysis"
+  thumbnailUrl: 'Robyn-270x300.jpg'
   studygroup: true
   ribbon: 
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=zPpJc94AAAAJ&hl=en&oi=ao"}
+    - {name: "site", link: "http://robynm.gsucreate.org/"}
 - 
   id: 3
   name: "Zening"
   surname: "Fu"
   title: "Multimodal data fusion of brain imaging data"
-  thumbnailUrl: 
+  thumbnailUrl: 'zfu.jpg'
   studygroup: true
   ribbon: 
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=7mlkA2YAAAAJ&hl=en&oi=ao"}
 - 
   id: 4
   name: "Jeremy"
   surname: "Bockholt"
   title: "Data sharing and population neuroscience"
-  thumbnailUrl: 
+  thumbnailUrl: 'IMG_7889-e1591753668109.jpeg'
   studygroup: true
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=kJX1-zMAAAAJ"}
 - 
   id: 5
   name: "Anees"
   surname: "Abrol"
   title: "Deep learning"
-  thumbnailUrl: 
+  thumbnailUrl: 'anees-e1591806029373.jpg'
   studygroup: true
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=DQvv4RUAAAAJ&hl=en"}
 - 
   id: 6
   name: "Jeffrey"
@@ -49,6 +55,7 @@
   thumbnailUrl: Malins_GSU_photo.jpg
   studygroup: true
   social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=4zMfPiwAAAAJ&hl=en&oi=ao"}
 - 
   id: 7
   name: "Enrico"
@@ -72,16 +79,17 @@
   name: "Vince D."
   surname: "Calhoun, PhD."
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: 'vince_pic_close-250x250.jpg'
   leadership: true
   social: 
-- 
+    - {name: "twitter", link: "https://twitter.com/vdcalhoun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en"}
 - 
   id: 10
   name: "Jingyu"
   surname: "Liu, PhD."
   title: ""
-  thumbnailUrl: 
+  thumbnailUrl: 'jean-1024x913.jpg'
   leadership: true
   social: 
 - 
@@ -93,12 +101,14 @@
   thumbnailUrl: armin.jpg
   leadership: true
   social: 
+    - {name: "google-scholar", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "site", link: "https://sites.google.com/view/arminiraji"}
 - 
   id: 12
   name: "Mustafa"
   surname: "Salman"
   title: "Technical Advisor"
-  thumbnailUrl: 
+  thumbnailUrl: salman.png
   staff: true
   social: 
     - {name: "twitter", link: "https://twitter.com/esalman/"}

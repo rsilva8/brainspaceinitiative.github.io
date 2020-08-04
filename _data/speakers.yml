@@ -3,62 +3,63 @@
   id: 1
   name: "Jiayu"
   surname: "Chen"
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Research Assistant Professor"
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "My research interests center on imaging genomics, aiming to characterize the genetic underpinnings of neurobiological traits that further relate to phenotypic manifestations of various mental disorders. My research involves developing computational methods to mine high-dimensional complex data for better understanding of genetic effects on brain at network level, as well as data fusion to integrate different modalities, spanning omic (genetic, epigenetic, transcriptomic), neuroimaging (sMRI, fMRI, DTI) and phenotypic levels, to better characterize mental illnesses and facilitate improved patient stratification and more precise treatment planning."
+  thumbnailUrl: 'Bio-300x292.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=Q480I1oAAAAJ"}
 - 
   id: 2
   name: "Robyn"
   surname: "Miller"
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Assistant Professor of Computer Science"
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "Robyn is interested in brain dynamics, spatiotemporal dynamics, fMRI, dynamic connectivity, high-dimensional signal processing, statistical learning, deep learning"
+  thumbnailUrl: 'Robyn-270x300.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=zPpJc94AAAAJ&hl=en&oi=ao"}
+    - {name: "site", link: "http://robynm.gsucreate.org/"}
 - 
   id: 3
   name: "Zening"
   surname: "Fu"
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Research Scientist"
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "I am interested in developing novel algorithms for tracking the dynamic brain connectivity and exploring the underlying physiological meaning of brain dynamics. Human brain is a highly dynamic system characterized by non-stationary neural activities and represented by changing psycho-physical states and mental functions. Identifying brain dynamics from complex neuroimaging signals and exploring the functional relevance of brain dynamics has gained increasing popularity for it is essential towards understanding how brain is organized to support cognitive and affective processes as well as utilization of brain dynamics in neural engineering and clinical applications. My current work could be divided into two parts: the first part focuses on developing new methods for tracking the dynamic brain connectivity; the second part focuses on identifying the brain dynamics and exploring their potential physiological mechanism."
+  thumbnailUrl: 'zfu.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=7mlkA2YAAAAJ&hl=en&oi=ao"}
 - 
   id: 4
   name: "Jeremy"
   surname: "Bockholt"
-  company: ""
-  title: ""
+  company: "TReNDS Center [GSU|GATech|Emory]"
+  title: "Manager & Analyst Programmer"
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "H. Jeremy Bockholt works as the manager of application development at TReNDS. Mr. Bockholt is an enterprise data management professional and senior full stack software engineer working on commercialization of technology developed at TReNDS, including COINS, COINSTAC and other projects. Mr. Bockholt helps to lead software development activities at TReNDS and assists faculty and senior staff to develop proposals for external funding of various biomedical informatics research topics."
+  thumbnailUrl: 'IMG_7889-e1591753668109.jpeg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=kJX1-zMAAAAJ"}
 - 
   id: 5
   name: "Anees"
   surname: "Abrol"
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Research Scientist"
   team: true
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: 'anees-e1591806029373.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "google-plus", link: "https://scholar.google.com/citations?user=DQvv4RUAAAAJ&hl=en"}
 - 
   id: 6
   name: "Jeffrey"
@@ -71,15 +72,16 @@
 <br /><br />Over the past few years, I have had the pleasure of working with several collaborators in the GSU community to study reading development in children. Using fMRI, we are currently looking at the intersection between the brain networks underlying reading and attentional control (Arrington, Malins, et al., 2019, Developmental Cognitive Neuroscience). We are also following up on a recent study suggesting that a certain amount of variability in brain activity may be beneficial for reading growth (Malins et al., 2018, Journal of Neuroscience). In the future, I am particularly interested in examining how diverse experiences with language – such as bilingual language experience in children – help to shape the brain networks that support literacy skills.
 <br /><br />I look forward to continuing to build connections with the neuroimaging community in Atlanta and beyond. Together, I hope we can find ways to connect brain research with current practices in education in order to help individuals reach their learning potential.
 <br /><br />Representative Publications:
-<br />Arrington, C.N., Malins, J.G., Winter, R., Mencl, W.E., Pugh, K.R., & Morris, R. (2019). Examining individual differences in reading and attentional control networks utilizing an oddball fMRI task. Developmental Cognitive Neuroscience, 38, 100674. DOI: https://doi.org/10.1016/j.dcn.2019.100674
-<br />Malins, J.G., Pugh, K.R., Buis, B., Frost, S.J., Hoeft, F., Landi, N., Mencl, W.E., Kurian, A., Staples, R., Molfese, P., Sevcik, R.A., & Morris, R. (2018). Individual differences in reading skill are related to trial-by-trial neural activation variability in the reading network. Journal of Neuroscience, 38(12), 2981-2989. DOI: https://doi.org/10.1523/JNEUROSCI.0907-17.2018"
+<br />Arrington, C.N., Malins, J.G., Winter, R., Mencl, W.E., Pugh, K.R., & Morris, R. (2019). Examining individual differences in reading and attentional control networks utilizing an oddball fMRI task. Developmental Cognitive Neuroscience, 38, 100674. DOI: <a href='https://doi.org/10.1016/j.dcn.2019.100674' target='_blank'>https://doi.org/10.1016/j.dcn.2019.100674</a>
+<br />Malins, J.G., Pugh, K.R., Buis, B., Frost, S.J., Hoeft, F., Landi, N., Mencl, W.E., Kurian, A., Staples, R., Molfese, P., Sevcik, R.A., & Morris, R. (2018). Individual differences in reading skill are related to trial-by-trial neural activation variability in the reading network. Journal of Neuroscience, 38(12), 2981-2989. DOI: <a href='https://doi.org/10.1523/JNEUROSCI.0907-17.2018' target='_blank'>https://doi.org/10.1523/JNEUROSCI.0907-17.2018</a>
+<br /><br />Links:
+<br /><a href='https://psychology.gsu.edu/profile/jeffrey-malins/' target='_blank'>GSU Psychology</a>
+<br /><a href='https://www.researchgate.net/profile/Jeffrey_Malins' target='_blank'>ResearchGate</a>
+<br /><a href='https://pubmed.ncbi.nlm.nih.gov/?term=Malins%20JG%5BAuthor%5D&cauthor=true&cauthor_uid=29440534' target='_blank'>PubMed</a>"
   thumbnailUrl: Malins_GSU_photo.jpg
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=4zMfPiwAAAAJ&hl=en&oi=ao"}
-    - {name: "GSU Psychology", link: "https://psychology.gsu.edu/profile/jeffrey-malins/"}
-    - {name: "ResearchGate", link: "https://www.researchgate.net/profile/Jeffrey_Malins"}
-    - {name: "PubMed", link: "https://pubmed.ncbi.nlm.nih.gov/?term=Malins%20JG%5BAuthor%5D&cauthor=true&cauthor_uid=29440534"}
 - 
   id: 7
   name: "Enrico"
@@ -96,8 +98,8 @@
   id: 8
   name: "Rogers Ferreira Da"
   surname: "Silva"
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Research Scientist"
   team: true
   bio: "Dr. Rogers F. Silva is a multidisciplinary scientist with extensive experience developing algorithms for statistical and machine learning, image analysis, numerical optimization, memory-efficient large-scale data reduction, and distributed analyses of big multimodal, multi-subject neuroimaging data.
 <br /><br />Interests:
@@ -118,50 +120,54 @@
   id: 9
   name: "Vince"
   surname: "Calhoun"
-  company: "TReNDS Center [GSU|GATech|Emory]"
+  company: "TReNDS Center"
   title: "Founding Director & Distinguished University Professor"
   team: true
-  bio: ""
-  thumbnailUrl: "https://trendscenter.org/vince-calhoun/"
+  bio: "Dr. Calhoun develops techniques for making sense of complex brain imaging data. Because each imaging modality has limitations, the integration of these data is needed to understand the healthy and especially the disordered human brain. Dr. Calhoun has created algorithms that map dynamic networks of brain function, structure and genetics, and how these are affected while being stimulated by various tasks or in individuals with mental illness such as schizophrenia."
+  thumbnailUrl: "vince_pic_close-250x250.jpg"
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/vdcalhoun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=WNOoGKIAAAAJ&hl=en"}
 - 
   id: 10
   name: "Jingyu"
   surname: "Liu, PhD."
-  company: ""
-  title: ""
+  company: "TReNDS Center & Georgia State University"
+  title: "Associate Professor of Computer Science"
   team: true
-  bio: ""
-  thumbnailUrl: 
+  bio: "Dr. Liu’s research focuses on exploring and identifying genetic, epigenetic, transcriptomic effects on or association with brain anomalies related to various mental illnesses and disorders, as well as understanding normal brain development. Her research involves developing methods to unveil hidden relations between various phenotypes and genetic/epigenetic features across the whole genome. The brain-based phenotypes can be extracted from MRI images, EEG and MEG signals, while the genetic and epigenetic features are from single nucleotide polymorphisms (SNP), copy number variations (CNV), DNA methylation, and gene expression. Due to complexity of data, various types of methods/algorithms are being developed and extended, including multimodal feature extraction, multivariate association, multilayer networks, and statistical models. The disorders being studied include, but not limited to, schizophrenia, bipolar disorder, substance abuse, ADHD, mood disorders.
+“Everything should be made as simple as possible, but not simpler.” – Albert Einstein"
+  thumbnailUrl: 'jean-1024x913.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
 - 
   id: 11
   name: "Armin"
   surname: "Iraji"
-  company: "TReNDS Center"
+  company: "TReNDS Center & Georgia State University"
   title: "Research Scientist"
   team: true
-  bio: ""
+  bio: "Armin’s background is data science and signal processing including machine learning, data mining, image processing, and time-series analysis. With over 10 years of experience in medical imaging analyses such as MRI, CT, EEG, and photoacoustic imaging, Armin has devoted most of his research to developing analytical techniques to interpret brain signals with the goal of improving patient care and directly translating brain signals into actions."
   thumbnailUrl: armin.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-scholar", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "site", link: "https://sites.google.com/view/arminiraji"}
 - 
   id: 12
   name: "Mustafa"
   surname: "Salman"
-  company: ""
-  title: ""
+  company: "Georgia Institute of Technology"
+  title: "Graduate Research Assistant"
   team: true
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: salman.png
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/esalman"}
+    - {name: "twitter", link: "https://twitter.com/esalman/"}
+    - {name: "github", link: "http://github.com/esalman/"}
+    - {name: "site", link: "http://esalman.com/"}
 
 # THE FOLLOWING ARE ACTUAL SPEAKERS
 - 
@@ -175,7 +181,7 @@
   thumbnailUrl: 
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "", link: ""}
 - 
   id: 102
   name: "Jessica"
@@ -184,7 +190,7 @@
   title: ""
   team: false
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: 'turner-250x250.jpg'
   rockstar: true
   social: 
     - {name: "", link: ""}
