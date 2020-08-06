@@ -1,0 +1,11 @@
+- 
+  date: "2020-07-31"
+  dateReadable: "July 31"
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [001]
+    }

@@ -35,7 +35,7 @@ organizerLink: "https://trendscenter.org/"
 # Head
 metaKeywords: "Specialized Study Groups, Scientific Panel Discussions, Virtual Learning Environments, Multiteam Collaborations, Brain Research, Neuroimaging, Data Science, Neuroinformatics, Feedback on Ongoing Studies, Mentoring, Improve Research Quality"
 twitterAccount: "@BrainSpaceInit"
-socialImageSrcGoogleScholar: "/img/seo/sharing-google-plus.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
@@ -46,7 +46,7 @@ c4sponsorsUrl:
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/study-groups/", text: "Study Groups"}
+ - {permalink: "/study-groups/", text: "Study / Discussion Groups"}
  #AI - {permalink: "/resources/", text: "Educational Resources"}
  - {permalink: "/talk-series/", text: "Talk Series"}
 #  - {permalink: "/communities-partners/", text: "Communities & Partners"}

@@ -64,8 +64,8 @@
   id: 6
   name: "Jeffrey"
   surname: "Malins"
-  company: ""
-  title: ""
+  company: "Georgia State University"
+  title: "Assistant Professor, Department of Psychology"
   team: true
   bio: "Nice to meet you! I am an assistant professor in the Department of Psychology at Georgia State University, and I am also affiliated faculty with the GSU Center for Research on the Challenges of Acquiring Language and Literacy and the GSU Neuroscience Institute. Prior to joining the faculty at GSU, I was an Associate Research Scientist in Pediatrics at Yale University. I also completed a postdoctoral fellowship at Haskins Laboratories, where I remain a Research Affiliate.
 <br /><br />My research focuses on the brain networks that support reading, spoken language processing, and attentional control. I use neuroimaging to study how these networks overlap, diverge, and change over the course of learning. I also examine how different biological, cognitive, and environmental factors shape the connectivity of these networks. In my research, I work with numerous populations of learners, including school-age children, adolescents, and adults; individuals with reading, language, and/or attention deficits; and individuals who speak or read more than one language.
@@ -90,7 +90,7 @@
   title: ""
   team: true
   bio: "I attended medical school at the University of Brescia (Italy), completing my residency program in Neurology at University of Brescia (Prof. Alessandro Padovani) in 2012. During this period, I had had the opportunity to increase my expertise in the field of neurodegenerative diseases (Prof. Barbara Borroni, Prof. Alessandro Padovani) from a clinical and research point of view. I focused my research interests on neuroimaging  (2007: San Raffaele University, Milan, Italy: Prof. Perani; 2009: SPM course, UCL, London, UK; 2012: Neuroimaging Lab, Fondazione “S.Lucia”, Rome, Italy, Prof. Bozzali). I currently have a permanent contract as clinical neurologist in the Stroke Unit, ASST “Spedali Civili” (Brescia, Italy): my everyday clinical practise is focused on the clinical evaluation and treatment of patients with cerebrovascular diseases (ischemic and haemorragic stroke). In parallel, I continued my research activity in collaboration with the Neurology Unit, Department of Clinical and Experimental Sciences, University of Brescia. Since my residency period my research interests was focused on the application of advanced neuroimaging techniques to neurodegenerative diseases, in particular Frontotemporal Dementia (FTD) to explore structural and functional correlates of the disease. In the last years I explored in particular: i) the preclinical phase of FTD (studying presymptomatic carriers of FTD causative mutations), ii) the behavioral/neuroimaging correlates in FTD, iii) the neuroanatomical correlates of Cognitive Reserve in FTD, iv) the utilization of advanced statistical approaches to clinical neuroimaging in neurodegenerative diseases."
-  thumbnailUrl: 
+  thumbnailUrl: Premi_Enrico.jpg
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fscholar.google.it%2Fcitations%3Fhl%3Den%26view_op%3Dlist_works%26gmla%3DAJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ%26user%3D4gtEDjoAAAAJ&data=02%7C01%7Cmsalman%40gsu.edu%7C1884095ae15347e37f6908d82a2e74c6%7C515ad73d8d5e4169895c9789dc742a70%7C0%7C0%7C637305726477532998&sdata=RBKbRLdFXtkqVczrwiV%2BVjj1u7LbUOXNgzxFPuQ63Mw%3D&reserved=0"}
@@ -112,7 +112,7 @@
 <br />He also received training in diffusion spectrum imaging at CMU and University of Pittsburgh in 2016, multimodal brain imaging at the MGH Martinos Center and Harvard/MIT in 2016, and deep learning at MILA, University of Montreal in 2017.
 <br /><br />Experience:
 <br />Before joining the TReNDS Center, Dr. Silva developed novel approaches for multimodal medical image analysis as a Postdoctoral Fellow at the Mind Research Network, in addition to client-centric tools and processes using machine learning and statistical analysis as a Data Scientist with Datalytic Solutions. Previously, he also had experience as an engineer, lecturer, and consultant."
-  thumbnailUrl: 
+  thumbnailUrl: rogers.png
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=cMtwwG8AAAAJ&hl=en"}
@@ -168,7 +168,19 @@
     - {name: "twitter", link: "https://twitter.com/esalman/"}
     - {name: "github", link: "http://github.com/esalman/"}
     - {name: "site", link: "http://esalman.com/"}
-
+- 
+  id: 13
+  name: "Maria"
+  surname: "Misiura"
+  company: "TReNDS Center & Georgia State University"
+  title: "Social Media Strategist & Designer"
+  team: true
+  bio: "Maria is currently pursuing a PhD in Psychology, and is a graduate research assistant in Jess Turner's Imaging Genetics and Informatics lab whose primary research focus is the application of neuroimaging techniques to aging and neurodegenerative diseases. She is excited to get the word out about the TReNDS center and its various achievements and research projects by assisting with web development, social media strategy, and graphic design."
+  thumbnailUrl: maria-201x300.jpg
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=PqBJhjEAAAAJ&hl=en&oi=ao"}
+    
 # THE FOLLOWING ARE ACTUAL SPEAKERS
 - 
   id: 101

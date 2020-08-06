@@ -5,7 +5,6 @@
     </svg>
     <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
         <div class="logo logo-light"></div>
-        <div class="logo logo-light" style="background-image: url('../img/sprites/TReNDS_logo.png'); float:right; width: 255px;"></div>
     </a>
     <nav class="st-menu st-effect" id="menu">
         <div class="logo-navbar logo logo-dark visible-xs"></div>
@@ -22,11 +21,21 @@
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
             {% endfor %}
+            <li>
+                <a href="{{ site.baseurl }}/" class="logo-header">
+                    <div class="logo logo-light" style="background-image: url('../img/sprites/TReNDS_logo.png');"></div>
+                </a>
+            </li>
         </ul>
         {% for rightNavigationButton in site.rightNavigationButtons %}
-        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+        <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" 
+            class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" 
+            {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}
+        <a href="http://trendscenter.org" class="logo-header pull-right hidden-xs hidden-sm" target="_blank">
+            <div class="logo logo-light" style="background-image: url('../img/sprites/TReNDS_logo.png'); float:right; width: 255px;"></div>
+        </a>
     </nav>
 </header>

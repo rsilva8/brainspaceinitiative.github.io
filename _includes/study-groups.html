@@ -1,34 +1,40 @@
-<!-- About Study Groups Section -->
-<section id="study-groups" class="study-groups">
+<!-- Begin Speakers List-->
+<section id="speakers" class="speakers">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
-            {% for studygroup in site.data.studygroups %}
-            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
-                <div class="zoe-effect ribbon-activator">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/study-groups/' | append: studygroup.image }})">
-                        <div class="overlay solid-overlay"></div>
-                        {% if studygroup.ribbon != null %}
-                        <ul class="ribbon-wrapper">
-                            {% for ribbon in studygroup.ribbon %}
-                            <li class="{{ ribbon["abbr"] | downcase }}">
-                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
-                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                        {% endif %}
-                        <figcaption>
-                            <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name"><a href="{{studygroup.link}}">{{ studygroup.title }}</a></h2>
-                            </div>
-                        </figcaption>
-                        <p class="bio">{{ studygroup.details | strip_html }}</p>
-                    </figure>
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="row text-left appear-animation-trigger">
+                {% for stg in site.data.studygroups %}
+                <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
+                    <div class="lily-effect ribbon-activator">
+                        <div class="lily-head">
+                            <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/study-groups/' | append: stg.image }})">
+                                <div class="overlay solid-overlay"></div>
+                                {% if stg.ribbon != null %}
+                                <ul class="ribbon-wrapper">
+                                    {% for ribbon in stg.ribbon %}
+                                    <li class="{{ ribbon["abbr"] | downcase }}">
+                                        <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                        <p class="ribbon full-title"><a href='{{ ribbon["url"] }}'>{{ ribbon["title"] }}</a></p>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                                {% endif %}
+                            </figure>
+                        </div>
+                        <div class="lily-bottom">
+                            <ul class="slider">
+                                {% assign sessionsNumber = 0 %}
+                                <h2 class="name"><a href="{{ stg.link }}">{{ stg.title }}</a></h2>
+                                <p class="position">{{ speaker.company }}</p>
+                            </ul>
+                            <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            {% endfor %}
+                {% endfor %}
+            </div> 
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Join Now</a>     
         </div>
     </div>
 </section>
-<!-- End Study Groups Section-->
-
+<!-- End Speakers List -->

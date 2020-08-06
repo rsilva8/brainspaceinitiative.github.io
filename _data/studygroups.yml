@@ -1,48 +1,43 @@
-- {
-  title: "Cognitive neuroscience", 
-  image: "study_group_generic.png", 
-  details: "",
+- 
+  title: "Cognitive neuroscience"
+  image: "study_group_generic.png" 
+  details: ""
   link: 'cognitive-neuroscience'
-  }
-- {
-  title: "Data sharing and population neuroscience", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Data sharing and population neuroscience"
+  image: "study_group_generic.png"
+  details: ""
   link: 'data-sharing-population'
-  }
-- {
-  title: "Deep learning", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Deep learning"
+  image: "study_group_generic.png"
+  details: "Platform for exciting discussions on critical opportunities as well as challenges posed in advancing DL architectures to learn powerful brain representations, their methodological interpretability and extension to multimodal data fusion."
   link: 'deep-learning'
-  }
-- {
-  title: "Dynamic activity/ connectivity analysis", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Dynamic activity/ connectivity analysis"
+  image: "study_group_generic.png"
+  details: "This is a venue for discussion, study and brainstorming around analysis of dynamics in functional imaging data. We encourage naive inquiries and out-of-box ideas, technical questions, debates, sharing of papers and exploration of collaborative possibilities. In time we will also have speakers, panel discussions and a casual journal club. Suggestions for other exciting ways to use this channel are encouraged."
   link: 'dynamic-connectivity-analysis'
-  }
-- {
-  title: "Imaging Genomics", 
-  image: "study_group_generic.png", 
-  details: "",
+  ribbon: 
+  - {abbr: "JC", title: "Journal Club", url: "dynamic-connectivity-analysis"}
+-
+  title: "Imaging Genomics"
+  image: "study_group_generic.png"
+  details: "A platform to gain and share knowledge on imaging genomic analysis, to facilitate brainstorming that inspires new perspectives and spurs new ideas, and to promote collaborative efforts in addressing the challenges faced by the community."
   link: 'imaging-genomics'
-  }
-- {
-  title: "Multimodal data fusion of brain imaging data", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Multimodal data fusion of brain imaging data"
+  image: "study_group_generic.png"
+  details: ""
   link: 'multimodal-fusion'
-  }
-- {
-  title: "Multivariate and Blind Subspace Methods", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Multivariate and Blind Subspace Methods"
+  image: "study_group_generic.png"
+  details: "A discussion space to explore the latest innovations and relationships among multivariate and subspace analysis methods."
   link: 'multivariate-blind-subspace'
-  }
-- {
-  title: "Neurodegenerative diseases", 
-  image: "study_group_generic.png", 
-  details: "",
+-
+  title: "Neurodegenerative diseases"
+  image: "study_group_generic.png"
+  details: ""
   link: 'neurodegenerative-diseases'
-  }
+  

@@ -5,7 +5,7 @@
   subtype: presentation
   speakers: [9]
   language: en
-  complexity: "Intermediate"
+  complexity: 
 -
   id: 002
   title: "TBA"
@@ -13,7 +13,7 @@
   subtype: presentation
   speakers: [101]
   language: en
-  complexity: "Intermediate"
+  complexity: 
 -
   id: 003
   title: "TBA"
@@ -21,7 +21,7 @@
   subtype: presentation
   speakers: [102]
   language: en
-  complexity: "Intermediate"
+  complexity: 
 -
   id: 004
   title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
@@ -29,7 +29,7 @@
   subtype: presentation
   speakers: [103]
   language: en
-  complexity: "Intermediate"
+  complexity: 
 -
   id: 005
   title: "Probing the brain at the limits of fMRI"
@@ -37,7 +37,7 @@
   subtype: presentation
   speakers: [104]
   language: en
-  complexity: "Intermediate"
+  complexity: 
 -
   id: 006
   title: "TBA"
@@ -45,4 +45,4 @@
   subtype: presentation
   speakers: [105]
   language: en
-  complexity: "Intermediate"
+  complexity: 

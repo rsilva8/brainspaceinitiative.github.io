@@ -114,4 +114,13 @@
     - {name: "twitter", link: "https://twitter.com/esalman/"}
     - {name: "github", link: "http://github.com/esalman/"}
     - {name: "site", link: "http://esalman.com/"}
+- 
+  id: 13
+  name: "Maria"
+  surname: "Misiura"
+  title: "Social Media Strategist & Designer"
+  thumbnailUrl: maria-201x300.jpg
+  staff: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=PqBJhjEAAAAJ&hl=en&oi=ao"}
     

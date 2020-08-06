@@ -1,7 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        {% for day in site.data.schedule %}
+        {% for day in site.data.schedule-past %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
@@ -78,11 +78,6 @@
             {% endfor %}
         </div>
         {% endfor %}
-    </div>
-    <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <a href="/past-talks" class="btn btn-primary waves-effect waves-button waves-light waves-float">Past Talks</a>     
-        </div>
     </div>
 </section>
 
