@@ -31,7 +31,7 @@ image: banner_BSI_groups.jpg
                         {% endfor %}
                     </div>
                     {% endif %}
-                    <p class="about">{{ speaker.bio }}</p>
+                    <p class="about">{{ speaker.bio | strip_html | truncate: 350 }} <a href="/team">more</a></p>
                 </div>
             </div>
         </div>
