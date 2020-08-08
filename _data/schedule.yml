@@ -1,4 +1,15 @@
 - 
+  date: "2020-08-14"
+  dateReadable: "August 14"
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [001]
+    }
+- 
   date: "2020-08-28"
   dateReadable: "August 28"
   tracks: 
@@ -43,6 +54,17 @@
     	sessionIds: [005]
     }
 - 
+  date: "2020-10-23"
+  dateReadable: "October 23"
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [006]
+    }
+- 
   date: "2020-11-06"
   dateReadable: "November 6"
   tracks: 
@@ -51,5 +73,27 @@
     - {
     	startTime: "11:00",
     	endTime: "12:00",
-    	sessionIds: [006]
+    	sessionIds: [007]
+    }
+- 
+  date: "2021-01-29"
+  dateReadable: "January 29"
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [008]
+    }
+- 
+  date: "2021-03-26"
+  dateReadable: "March 26"
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [009]
     }

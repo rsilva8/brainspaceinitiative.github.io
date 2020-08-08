@@ -27,6 +27,9 @@
                 </a>
             </li>
         </ul>
+        <a href="http://trendscenter.org" class="logo-header pull-right hidden-xs hidden-sm" target="_blank">
+            <div class="logo logo-light" style="background-image: url('../img/sprites/TReNDS_logo.png'); float:right; width: 255px;"></div>
+        </a>
         {% for rightNavigationButton in site.rightNavigationButtons %}
         <a href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" 
             class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" 
@@ -34,8 +37,5 @@
             {{ rightNavigationButton.text }}
         </a>
         {% endfor %}
-        <a href="http://trendscenter.org" class="logo-header pull-right hidden-xs hidden-sm" target="_blank">
-            <div class="logo logo-light" style="background-image: url('../img/sprites/TReNDS_logo.png'); float:right; width: 255px;"></div>
-        </a>
     </nav>
 </header>

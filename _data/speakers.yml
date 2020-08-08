@@ -186,14 +186,19 @@
   id: 101
   name: "Lucina"
   surname: "Uddin"
-  company: ""
-  title: ""
+  company: "University of Miami"
+  title: "Associate Professor, Department of Psychology"
   team: false
-  bio: ""
-  thumbnailUrl: 
+  bio: "After receiving a Ph.D. in cognitive neuroscience from the psychology department at UCLA in 2006, Dr. Uddin completed a postdoctoral fellowship at the Child Study Center at NYU. For several years she worked as a faculty member in Psychiatry &amp; Behavioral Science at the Stanford School of Medicine. She joined the psychology department at the University of Miami in 2014. Within a cognitive neuroscience framework, Dr. Uddin’s research combines analyses of resting-state fMRI and diffusion weighted imaging data to examine the organization of large-scale brain networks supporting executive functions. Her current projects focus on understanding dynamic network interactions underlying cognitive inflexibility in neurodevelopmental disorders such as autism. Dr. Uddin’s work (over 125 publications) has been published in the Journal of Neuroscience, Cerebral Cortex, JAMA Psychiatry, Biological Psychiatry, PNAS, and Nature Reviews Neuroscience. She was awarded the Young Investigator award by the Organization for Human Brain Mapping in 2017.
+<br /><br />Featured Articles:
+<br /><a href='https://www.nature.com/articles/nrn3857' target=_blank>Salience processing and insular cortical function and dysfunction</a>
+<br /><a href='https://link.springer.com/article/10.1007/s10548-019-00744-6' target=_blank>Towards a Universal Taxonomy of Macro-scale Functional Human Brain Networks</a>
+<br /><a href='https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30144-3' target=_blank>Bring the Noise: Reconceptualizing Spontaneous Neural Activity</a>
+<br /><a href='https://www.sciencedirect.com/science/article/pii/S0006322320315973?via%3Dihub' target=_blank>Brain Mechanisms Supporting Flexible Cognition and Behavior in Adolescents With Autism Spectrum Disorder</a>"
+  thumbnailUrl: Uddin_ProfessionalPhoto2018_Crop.jpg   
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "https://bccl.psy.miami.edu/"}
 - 
   id: 102
   name: "Jessica"
@@ -210,14 +215,20 @@
   id: 103
   name: "Simon"
   surname: "Eickhoff"
-  company: ""
-  title: ""
+  company: "Heinrich-Heine University in Düsseldorf"
+  title: "Full Professor & Director, The Institute for Systems Neuroscience"
   team: false
-  bio: ""
-  thumbnailUrl: 
+  bio: "Simon Eickhoff is a full professor and chair of the Institute for Systems Neuroscience at the Heinrich-Heine University in Düsseldorf and the director of the Institute of Neuroscience and Medicine (INM-7, Brain and Behavior) at the Forschungszentrum Jülich. He is furthermore a visiting professor at the Chinese Academy of Science Institute of Automation. Workig at the interface between neuroanatomy, data-science and brain medicine, the he aims to obtain a more detailed characterization of the organization of the human brain and its inter-individual variability in order to better understand its changes in advanced age as well as neurological and psychiatric disorders. This goal is pursued by the development and application of novel analysis tools and approaches for large-scale, multi-modal analysis of brain structure, function and connectivity as well as by machine-learning for single subject prediction of cognitive and socio-affective traits and ultimately precision medicine.
+<br /><br />Featured Articles:
+<br /><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000497' target=_blank>Neuroimaging-based prediction of mental traits: Road to utopia or Orwell?</a>
+<br /><a href='https://www.biologicalpsychiatryjournal.com/article/S0006-3223(19)31707-X/fulltext' target=_blank>Neurobiological Divergence of the Positive and Negative Schizophrenia Subtypes Identified on a New Factor Structure of Psychopathology Using Non-negative Factorization: An International Machine Learning Study</a>
+<br /><a href='https://www.nature.com/articles/s41583-018-0071-7' target=_blank>Imaging-based parcellations of the human brain</a>
+<br /><a href='https://www.sciencedirect.com/science/article/pii/S0149763417303111' target=_blank>Ten simple rules for neuroimaging meta-analysis</a>
+<br /><a href='https://link.springer.com/article/10.1007/s00429-018-1651-z' target=_blank>Predicting personality from network-based resting-state functional connectivity</a>"
+  thumbnailUrl: Simon_Eickhoff.png
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "https://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html"}
 - 
   id: 104
   name: "Peter"
@@ -270,6 +281,30 @@
   id: 108
   name: "Bharat"
   surname: "Biswal"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 109
+  name: "Dante"
+  surname: "Chialvo"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 110
+  name: "Juan Helen"
+  surname: "Zhou"
   company: ""
   title: ""
   team: false

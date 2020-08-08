@@ -8,8 +8,8 @@
   complexity: 
 -
   id: 002
-  title: "TBA"
-  description: ""
+  title: "Brain dynamics and flexible behaviors"
+  description: "Executive control processes and flexible behaviors rely on the integrity of, and dynamic interactions between, large-scale brain networks. The right insular cortex is a critical component of a salience/midcingulo-insular network that is thought to mediate interactions between brain networks involved in externally oriented (central executive/lateral frontoparietal network) and internally oriented (default mode/medial frontoparietal network) processes. How these brain systems reconfigure with development is a critical question for cognitive neuroscience, with implications for neurodevelopmental pathologies affecting brain connectivity. I will describe studies examining how brain network dynamics support flexible behaviors in typical and atypical development, presenting evidence suggesting a unique role for the dorsal anterior insular from studies of meta-analytic connectivity modeling, dynamic functional connectivity, and structural connectivity. These findings from adults, typically developing children, and children with autism suggest that structural and functional maturation of insular pathways is a critical component of the process by which human brain networks mature to support complex, flexible cognitive processes throughout the lifespan."
   subtype: presentation
   speakers: [101]
   language: en
@@ -24,8 +24,10 @@
   complexity: 
 -
   id: 004
-  title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
-  description: ""
+  title: "From areas and networks to individual predictions"
+  description: "The long predominant paradigm in neuroimaging has been to compare (mean) local volume or activity between groups, or to correlate these to behavioral phenotypes. Such approach, however, is intrinsically limited in terms of possible insight into inter-individual differences and application in clinical practice. Recently, the increasing availability of large cohort data and tools for multivariate statistical learning, allowing the prediction of individual cognitive or clinical phenotypes in new subjects, have started a revolution in imaging neuroscience. 
+<br /><br />The transformation of systems neuroscience into a big data discipline poses a lot of new challenges, yet the most critical aspects is the still sub-optimal relationship between the extremely wide feature-space from neuroimaging and the comparably low number of subjects. This, however, is only true when approaching neuroimaging machine-learning in a naïve fashion, i.e., when ignoring the large body of existing work on human brain mapping. The regional segregation of the brain into distinct modules as well as the large-scale, distributed networks provide the fundamental organizational principles of the human brain and hence the basis for cognitive information processing. Importantly, both can now be mapped in a highly robust fashion by integrating information on hundreds or even thousands of individual subjects to provide a priori information. 
+<br /><br />This talk will outline the fundamental principles of topographic organization in the human brain and the robust mapping of functional networks. I will then illustrate, how this knowledge on human brain organization can be leveraged for inference on socio-affective or cognitive traits in previously unseen individual subjects or psychopathology in mental disorders. Providing a bidirectional translation, such application will in turn provide information on the respective brain regions and networks."
   subtype: presentation
   speakers: [103]
   language: en
@@ -40,9 +42,33 @@
   complexity: 
 -
   id: 006
+  title: "Everything you wish to know about critical brain dynamics but are afraid to ask"
+  description: ""
+  subtype: presentation
+  speakers: [109]
+  language: en
+  complexity: 
+-
+  id: 007
   title: "TBA"
   description: ""
   subtype: presentation
   speakers: [105]
+  language: en
+  complexity: 
+-
+  id: 008
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [110]
+  language: en
+  complexity: 
+-
+  id: 009
+  title: "Clarifying the Neurocognitive Systems that Support Reading and Language Development"
+  description: ""
+  subtype: presentation
+  speakers: [6]
   language: en
   complexity: 
