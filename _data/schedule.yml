@@ -1,6 +1,7 @@
 - 
   date: "2020-08-14"
   dateReadable: "August 14"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -12,6 +13,7 @@
 - 
   date: "2020-08-28"
   dateReadable: "August 28"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -23,6 +25,7 @@
 - 
   date: "2020-09-11"
   dateReadable: "September 11"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -34,6 +37,7 @@
 - 
   date: "2020-09-25"
   dateReadable: "September 25"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -45,6 +49,7 @@
 - 
   date: "2020-10-09"
   dateReadable: "October 9"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -56,6 +61,7 @@
 - 
   date: "2020-10-23"
   dateReadable: "October 23"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -67,6 +73,7 @@
 - 
   date: "2020-11-06"
   dateReadable: "November 6"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -76,8 +83,21 @@
     	sessionIds: [007]
     }
 - 
+  date: "2020-11-20"
+  dateReadable: "November 20"
+  past: false
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [010]
+    }
+- 
   date: "2021-01-29"
   dateReadable: "January 29"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -89,6 +109,7 @@
 - 
   date: "2021-03-26"
   dateReadable: "March 26"
+  past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:

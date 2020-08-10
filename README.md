@@ -125,3 +125,5 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
 * Speaker IDs start from 101, team IDs start from 1.
 * Team member and speaker IDs must be the same for one person.
 * Study group pages are under a collection in config.
+* `schedule.yml` contains session IDs, `sessions.yml` contains speaker IDs.
+* Each entry in `schedule.yml` has a `past` attribute, which determines if it will appear on the schedule page or past talks page.

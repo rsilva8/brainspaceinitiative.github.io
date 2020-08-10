@@ -5,6 +5,7 @@
             <a href="/past-talks" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right">Past Talks</a>     
         </div>
         {% for day in site.data.schedule %}
+        {% if day.past == false %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
@@ -80,6 +81,7 @@
             </div>
             {% endfor %}
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 </section>

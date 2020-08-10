@@ -11,7 +11,8 @@ image: banner_BSI_groups.jpg
 [Coming soon]
 
 #### Journal Club Info 
-[Coming soon]
+Tentative date: August 21, 2:00 pm - 3:00 pm EST
+More information coming soon.
 
 #### Group Leader
 <div class="text-left people-modal">

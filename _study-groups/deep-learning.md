@@ -10,8 +10,8 @@ image: banner_BSI_groups.jpg
 #### List of Resources
 [Coming soon]
 
-#### Journal Club Info 
-[Coming soon]
+<!-- #### Journal Club Info 
+[Coming soon] -->
 
 #### Group Leader
 <div class="text-left people-modal">

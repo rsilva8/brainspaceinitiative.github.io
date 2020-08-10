@@ -7,6 +7,7 @@
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head">
+                            <a href="{{ stg.link }}">
                             <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/study-groups/' | append: stg.image }})">
                                 <div class="overlay solid-overlay"></div>
                                 {% if stg.ribbon != null %}
@@ -20,15 +21,16 @@
                                 </ul>
                                 {% endif %}
                             </figure>
+                            </a>
                         </div>
-                        <div class="lily-bottom">
+                        <!-- <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
                                 <h2 class="name"><a href="{{ stg.link }}">{{ stg.title }}</a></h2>
                                 <p class="position">{{ speaker.company }}</p>
                             </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber < 2 %}hidden{% endif %}">Next</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 {% endfor %}
