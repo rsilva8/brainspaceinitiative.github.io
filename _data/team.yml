@@ -123,4 +123,12 @@
   staff: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=PqBJhjEAAAAJ&hl=en&oi=ao"}
-    
+- 
+  id: 14
+  name: "Sergey"
+  surname: "Plis"
+  title: "Deep learning"
+  thumbnailUrl: Sergey_Plis-e1591500342651.jpg
+  studygroup: true
+  social: 
+    - {name: "google-plus", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
