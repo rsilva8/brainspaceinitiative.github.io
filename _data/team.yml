@@ -64,7 +64,7 @@
   thumbnailUrl: Premi_Enrico.jpg
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ&user=4gtEDjoAAAAJ"}
+    - {name: "google-scholar", link: "https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F4WhAu_dKup8BuQhp6AKWizjsNigH4_nSlOYA55y56nmTd742pdr5kwkqDd-xd06JBtMdsoOc_BN1eygfoBzBWe-b7mKQ&user=4gtEDjoAAAAJ"}
 - 
   id: 8
   name: "Rogers Ferreira Da"
@@ -73,7 +73,9 @@
   thumbnailUrl: rogers.png
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=cMtwwG8AAAAJ&hl=en"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=cMtwwG8AAAAJ&hl=en"}
+    - {name: "github", link: "https://github.com/rsilva8"}
+    - {name: "twitter", link: "deepfusionace"}
 - 
   id: 9
   name: "Vince D."
@@ -131,4 +133,4 @@
   thumbnailUrl: Sergey_Plis-e1591500342651.jpg
   studygroup: true
   social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}

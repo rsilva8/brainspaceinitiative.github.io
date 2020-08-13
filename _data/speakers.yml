@@ -59,7 +59,7 @@
   thumbnailUrl: 'anees-e1591806029373.jpg'
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=DQvv4RUAAAAJ&hl=en"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=DQvv4RUAAAAJ&hl=en"}
 - 
   id: 6
   name: "Jeffrey"
@@ -116,6 +116,8 @@
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=cMtwwG8AAAAJ&hl=en"}
+    - {name: "github", link: "https://github.com/rsilva8"}
+    - {name: "twitter", link: "deepfusionace"}
 - 
   id: 9
   name: "Vince"
@@ -191,7 +193,7 @@
   thumbnailUrl: Sergey_Plis-e1591500342651.jpg
   rockstar: true
   social: 
-    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=PqBJhjEAAAAJ&hl=en&oi=ao"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
     
 # THE FOLLOWING ARE ACTUAL SPEAKERS
 - 
