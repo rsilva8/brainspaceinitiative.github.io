@@ -134,3 +134,63 @@
   studygroup: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
+- 
+  id: 104
+  name: "Peter"
+  surname: "Bandettini"
+  title: ""
+  thumbnailUrl: peter_bandettini_pi_144226_3.jpg
+  advisory: true
+  social: 
+    - {name: "site", link: "https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/peter-bandettini.shtml"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=X9OdRnYAAAAJ&hl=en"}
+- 
+  id: 103
+  name: "Simon"
+  surname: "Eickhoff"
+  title: ""
+  thumbnailUrl: Simon_Eickhoff.png
+  advisory: true
+  social: 
+    - {name: "site", link: "https://www.fz-juelich.de/inm/inm-7/EN/Home/home_node.html"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=wjpISMAAAAAJ&hl=en"}
+- 
+  id: 112
+  name: "Konrad"
+  surname: "Kording"
+  title: ""
+  thumbnailUrl: Transparent-Portrait-218x300.jpg
+  advisory: true
+  social: 
+    - {name: "site", link: "http://kordinglab.com/"}
+    - {name: "site", link: "http://koerding.com/"}
+- 
+  id: 102
+  name: "Jessica"
+  surname: "Turner"
+  title: ""
+  thumbnailUrl: turner.jpg
+  advisory: true
+  social: 
+    - {name: "site", link: "https://psychology.gsu.edu/profile/jessica-turner/"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=3O_Br8QAAAAJ"}
+- 
+  id: 113
+  name: "Tonya"
+  surname: "White"
+  title: ""
+  thumbnailUrl: TonyaWhitejpg.jpg
+  advisory: true
+  social: 
+    - {name: "site", link: "https://www.erasmusmc.nl/en/sophia/research/researchers/white-tonya"}
+    - {name: "google-scholar", link: "https://scholar.google.nl/citations?user=iXB4g9gAAAAJ&hl=nl"}
+- 
+  id: 110
+  name: "Juan (Helen)"
+  surname: "Zhou"
+  title: ""
+  thumbnailUrl: JuanZhou.png
+  advisory: true
+  social: 
+    - {name: "site", link: "http://neuroimaginglab.org/members.html"}
+    - {name: "google-scholar", link: "https://scholar.google.com.sg/citations?user=4Z1S3_oAAAAJ&hl=en"}
