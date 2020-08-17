@@ -55,7 +55,7 @@
   company: "TReNDS Center & Georgia State University"
   title: "Research Scientist"
   team: true
-  bio: ""
+  bio: "Dr. Abrol investigates the development of advanced machine learning and signal processing based deep data fusion frameworks to understand complex interactions in multimodal brain imaging data. Development of such end-to-end trained deep learning models is targeted to facilitate the discovery of crucial non-linear interrelationships between the data modalities, otherwise inaccessible to standard machine learning models. Leveraging this additional wealth of information can enable breakthrough advances in our pursuit of significant neuroimaging objectives such as identifying disease biomarkers at early stages, predicting progression to brain abnormalities and evaluating treatment effects of drugs on individuals with cognitive impairments. Motivated by this, his ongoing research includes assessing the effectiveness of engaging deep learning models to explain vital neuroimaging tasks, with a particular focus on sourcing superior lower-dimensional representations and finer methodical interpretations. Other research interests include exploring complex spatiotemporal associations in brain dynamics wherein his significant contributions include corroborating robustness and disease characterization/prediction utility of time-varying functional connectivity state profiles of the human brain at rest."
   thumbnailUrl: 'anees-e1591806029373.jpg'
   rockstar: true
   social: 
