@@ -208,6 +208,7 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://bccl.psy.miami.edu/"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=ZRJpD7wAAAAJ&hl=en"}
 - 
   id: 102
   name: "Jessica"
