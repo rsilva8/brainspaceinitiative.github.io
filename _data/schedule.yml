@@ -1,7 +1,7 @@
 - 
   date: "2020-08-14"
   dateReadable: "August 14"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:

@@ -18,8 +18,8 @@
   video: https://www.youtube.com/embed/UsIHBOrabc4
 -
   id: 003
-  title: "TBA"
-  description: ""
+  title: "Updates from ENIGMA: Worldwide collaborative methods"
+  description: "The Enhancing Neuroimaging Genetics through Meta-Analysis (ENIGMA) consortium is a worldwide, largely volunteer research collaboration that recently celebrated its 10th year. In that time, it has become a model of large-scale, imaging data re-use for meta- and mega-analysis, leading to numerous results in genetic effects on brain structure, clinical effects on brain structure and function, and methods for analysis of heterogenous structural and functional data. Clinical research domains range from schizophrenia to bipolar disorder to Parkinson's disease, sleep disorders, HIV and addiction, while methodological developments span gray matter volumes, subcortical shape, sulcal and gyral depth, white matter tract based statistics, and resting state analyses, with recommendations for applying an ENIGMA approach to task-based fMRI are in development. These efforts highlight both the value of combining data analyses, along with the challenges of combining data from studies collected for different reasons in different environments. I will review some of the current efforts underway across the more than 50 working groups within ENIGMA, along with the implications for these kinds of large-scale analyses in the future."
   subtype: presentation
   speakers: [102]
   language: en
