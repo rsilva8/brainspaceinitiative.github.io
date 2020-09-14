@@ -24,6 +24,7 @@
   speakers: [102]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/dX1-Ka93KgA
 -
   id: 004
   title: "Leveraging biological knowledge: From Brain Mapping to predictive models"
