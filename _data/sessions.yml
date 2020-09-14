@@ -82,3 +82,11 @@
   speakers: [111]
   language: en
   complexity: 
+-
+  id: 011
+  title: "Causal Models of Brain Network Dynamics"
+  description: ""
+  subtype: presentation
+  speakers: [114]
+  language: en
+  complexity: 

@@ -359,3 +359,15 @@
   social: 
     - {name: "site", link: "https://www.erasmusmc.nl/en/sophia/research/researchers/white-tonya"}
     - {name: "google-scholar", link: "https://scholar.google.nl/citations?user=iXB4g9gAAAAJ&hl=nl"}
+- 
+  id: 114
+  name: "Adeel"
+  surname: "Razi"
+  company: "Monash University"
+  title: "Associate Professor & ARC DECRA Fellow, Turner Institute for Brain and Mental Health"
+  team: false
+  bio: "Website: <a href='http://www.adeelrazi.org/'>www.adeelrazi.org</a>"
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://www.adeelrazi.org/"}
