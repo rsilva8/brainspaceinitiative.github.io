@@ -1,9 +1,5 @@
 - 
-  group: "Partners"
+  group: "Co-sponsors"
   elements: 
-- 
-  group: "Communities"
-  elements: 
-- 
-  group: "Labs"
-  elements: 
+    - {name: "IEEE SPS", description: "IEEE Signal Processing Society Data Science Initiative", link: "https://signalprocessingsociety.org/community-involvement/data-science-initiative/", imageUrl: "SPS_Logo_Color_RGB.png"}
+    - {name: "TReNDS", description: "The Tri-institutional Center for Translational Research in Neuroimaging & Data Science", link: "http://trendscenter.org", imageUrl: "TReNDS_logo.png"}
