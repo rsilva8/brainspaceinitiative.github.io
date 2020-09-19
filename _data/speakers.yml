@@ -371,3 +371,15 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://www.adeelrazi.org/"}
+- 
+  id: 115
+  name: "Dimitri Van De"
+  surname: "Ville"
+  company: "EPFL and University of Geneva"
+  title: "Professor of Bioengineering"
+  team: false
+  bio: "Website: <a href='https://miplab.epfl.ch/'>miplab.epfl.ch</a>"
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://miplab.epfl.ch/"}
