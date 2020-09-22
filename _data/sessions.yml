@@ -93,8 +93,14 @@
   complexity: 
 -
   id: 012
-  title: "TBA"
-  description: ""
+  title: "Graph signal processing for computational neuroimaging"
+  description: "<p>State-of-the-art magnetic resonance imaging (MRI) provides unprecedented opportunities to study brain structure (anatomy) and function (physiology). Based on such data, graph representations can be built where nodes are associated to brain regions and edge weights to strengths of structural or functional connections. In particular, structural graphs capture major neural pathways in white matter, while functional graphs map out statistical interdependencies between pairs of regional activity traces. Network analysis of these graphs has revealed emergent system-level properties of brain structure or function, such as efficiency of communication and modular organization.</p>
+<p>In this talk, graph signal processing (GSP) will be presented as a novel framework to integrate brain structure, contained in the structural graph, with brain function, characterized by activity traces that can be considered as time-dependent graph signals. Such a perspective allows to define novel meaningful graph-filtering operations of brain activity that take into account smoothness of signals on the anatomical backbone. This allows to define a new measure of “coupling” between structure and function based on how activity is expressed on structural graph harmonics. To provide statistical inference, we also extend the well-known Fourier phase randomization method to generate surrogate data to the graph setting. This new measure reveals a behaviorally relevant spatial gradient, where sensory regions tend to be more coupled with structure, and high-level cognitive ones less so. In addition, we also make a case to introduce the graph modularity matrix at the core of GSP, in order to incorporate knowledge about graph community structure when processing signals on the graph, but without the need for community detection. Finally, recent work will highlight how the spatial resolution of this type of analyses can be increased to the voxel level, representing a few hundredth thousands of nodes.</p>
+<p>Recommended Articles:
+<ul><li>W. Huang*, T. A. W. Bolton*, J. D. Medaglia, D. S. Bassett, A. Ribeiro, D. Van De Ville, A Graph Signal Processing Perspective on Functional Brain Imaging, Proceedings of the IEEE, 2018, 106, 868-885</li>
+<li>M. G. Preti, D. Van De Ville, Decoupling of Brain Function from Structure Reveals Regional Behavioral Specialization in Humans, Nature Communications, 2019, 10, 4747</li>
+<li>A. Tarun, H. Behjat, T. Bolton, D. Abramian, D. Van De Ville, Structural Mediation of Human Brain Activity Revealed by White-Matter Interpolation of fMRI, NeuroImage, 2020, 213, 116718</li>
+<li>M. Petrovic*, R. Liégeois*, T. A. W. Bolton, D. Van De Ville, Community-Aware Graph Signal Processing, IEEE Signal Processing Magazine, in press</li></ul></p>"
   subtype: presentation
   speakers: [115]
   language: en
