@@ -385,3 +385,15 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://miplab.epfl.ch/"}
+- 
+  id: 116
+  name: "Eva"
+  surname: "Dyre"
+  company: ""
+  title: ""
+  team: false
+  bio: "<p>Website: <a href='https://dyerlab.gatech.edu/'>https://dyerlab.gatech.edu/</a></p>"
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://dyerlab.gatech.edu/"}

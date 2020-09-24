@@ -119,6 +119,18 @@
     	sessionIds: [011]
     }
 - 
+  date: "2021-01-15"
+  dateReadable: "January 15"
+  past: false
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [013]
+    }
+- 
   date: "2021-01-29"
   dateReadable: "January 29"
   past: false
