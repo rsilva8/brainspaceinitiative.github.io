@@ -35,6 +35,7 @@
   speakers: [103]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/UbLnzCnTxTI
 -
   id: 005
   title: "Probing the brain at the limits of fMRI"
