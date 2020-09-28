@@ -38,8 +38,8 @@
   video: https://www.youtube.com/embed/UbLnzCnTxTI
 -
   id: 005
-  title: "Probing the brain at the limits of fMRI"
-  description: ""
+  title: "New Maps of Activation, Connectivity, and Hierarchy using Ultra High Resolution fMRI"
+  description: "Layer fMRI, requiring high field, advanced pulse sequences, and sophisticated processing methods, has emerged in the last decade. The rate of layer fMRI papers published has grown sharply as the delineation of mesoscopic scale functional organization has shown success in providing insight into human brain processing. Layer fMRI promises to move beyond being able to simply identify where and when activation is taking place as inferences made from the activation depth in the cortex will provide detailed directional feedforward and feedback related activity. This new knowledge promises to bridge invasive measures and those typically carried out on humans. In this talk, I will describe the challenges in achieving laminar functional specificity as well as possible approaches to data analysis for both activation studies and resting state connectivity. I will highlight our work demonstrating task-related laminar modulation of primary sensory and motor systems as well as layer-specific activation in dorsal lateral prefrontal cortex with a working memory task. Lastly, I will present recent work demonstrating cortical hierarchy in visual cortex using resting state connectivity laminar profiles."
   subtype: presentation
   speakers: [104]
   language: en
