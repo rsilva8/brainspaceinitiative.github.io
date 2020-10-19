@@ -48,7 +48,8 @@
 -
   id: 006
   title: "Everything you wish to know about critical brain dynamics but are afraid to ask"
-  description: ""
+  description: '<p>We discuss recent attempts to understand complex brain dynamics at large scale using approaches from statistical physics. The motivation to adopt this approach is rooted in a more general question: "Why life is complex and –most importantly– what is the origin of the over abundance of complexity in nature?" This  fundamental problem “is screaming to be answered but seldom is even being asked”, paraphrasing the late Per Bak.</p>
+<p>In this lecture we will justify the approach by reviewing our attempts across several scales to understand the origins of complex biological problems from the perspective of critical phenomena. We will then offer an overview of the experimental and numerical results pertaining to complex aspects of large scale brain dynamics.</p>'
   subtype: presentation
   speakers: [109]
   language: en

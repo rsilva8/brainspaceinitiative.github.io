@@ -301,14 +301,28 @@
   id: 109
   name: "Dante"
   surname: "Chialvo"
-  company: ""
-  title: ""
+  company: "Universidad Nacional de San Martin"
+  title: "Head, Center for Complex Systems & Brain Sciences (CEMSC<sup>3</sup>)"
   team: false
-  bio: ""
-  thumbnailUrl: 
+  bio: "<p>Dr. Dante R. Chialvo received his diploma in 1982 from the National University of Rosario, in Argentina. In 1985 was appointed Professor of the Department of Physiology of the University of Rosario. From 1987 to 1992 was Associate Professor in the State University of New York (Syracuse, NY) in the Department of Pharmacology and latter in the Computational Neuroscience Program. Between 1992 and 1995 was associated with the Santa Fe Institute for the Sciences of Complexity, in Santa Fe, New México. Until 2010, he was Full Professor at Northwestern University (Chicago), and UCLA, when he returned to Argentina as Principal Investigator of Conicet (Argentina).</p>
+<p>Currently he is Full Professor and head of the Center for Complex Systems and Brain Sciences (Cemsc3) at the UNSAM (Universidad Nacional de San Martin) in Buenos Aires, Argentina.</p>
+<p>Throughout these years, he has been Visiting Professor at numerous universities including Wuerzburg University (Germany), University of Copenhagen (Denmark), The Rockefeller University (U.S.A.), University of the Balearic Islands, University of Barcelona, University Complutense of Madrid, (Spain),  Naples (Italy) and University of Rosario, University of Cordoba (Argentina), Universidad Mayor de San Andres, La Paz, (Bolivia) , Jagellonian Univ. (Krakow) among others.</p>
+<p>Dr. Chialvo has published more than 100 scientific papers, all dedicated to understand natural phenomena from the point of view of Nonlinear Dynamics of Complex Systems. His work covers a wide range of topics, including the mathematical modeling of cardiac arrhythmias, the study of molecular motors as stochastic ratchets, neural coding, and self-organization and collective phenomena in ants swarms, brain and communities, among others. In 2005 he was the recipient of a Fulbright US Scholar Award (2005), in 2006 the Distinguished Visiting Professor of the University Complutense, (Psychology Department), Madrid, Spain, Visiting Professor Award of the  Seconda Università degli Studi di Napoli, Aversa Italy and elected Fellow of the American Physical Society in 2007.</p>
+<p>Website: <a href='http://www.chialvo.net/'>http://www.chialvo.net/</a></p>
+<p><b>Recommended Articles</b>
+<ul>
+<li>Organization, Development and Function of Complex Brain Networks. Sporns O, Chialvo DR, Kaiser M & Hilgetag CC.  Trends in Cognitive Sciences, 8 (9): 418– 425 (2004). (<a href='https://doi.org/10.1016/j.tics.2004.07.008'>https://doi.org/10.1016/j.tics.2004.07.008</a>)</li>
+<li>Scale-free brain functional networks. Eguiluz V, Chialvo DR, Cecchi G, Baliki M, Apkarian AV.   Phys. Rev. Letters 92, 018102 (2005). (<a href='https://doi.org/10.1103/PhysRevLett.94.018102'></a>)</li>
+<li>Emergent complex neural dynamics,  Chialvo DR. Nature  Physics 6, 744–750 (2010). (<a href='https://doi.org/10.1038/nphys1803'>https://doi.org/10.1038/nphys1803</a>)</li>
+<li>What kind of noise is brain noise: anomalous scaling behavior of the resting brain activity fluctuations.  D Fraiman, DR Chialvo Frontiers in physiology 3, 307 (2012). (<a href='https://doi.org/10.3389/fphys.2012.00307'>https://doi.org/10.3389/fphys.2012.00307</a>)</li>
+<li>Criticality in large-scale brain fMRI dynamics unveiled by a novel point process analysis. E Tagliazucchi, P Balenzuela, D. Fraiman ,  DR Chialvo. Frontiers in physiology 3, 15 (2012). (<a href='https://doi.org/10.3389/fphys.2012.00015'>https://doi.org/10.3389/fphys.2012.00015</a>)</li>
+<li>Brain organization into resting state networks emerges at criticality on a model of the human connectome. A Haimovici, E Tagliazucchi, P Balenzuela, DR Chialvo. Physical review letters 110 (17), 178101 (2013). (<a href='https://doi.org/10.1103/PhysRevLett.110.178101'>https://doi.org/10.1103/PhysRevLett.110.178101</a>).</li>
+<li>Life at the edge: Complexity and criticality in biological function. DR Chialvo, Acta Physica Polonica B, 49(12) 1955 (2018). (<a href='https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=49&page=1955'>https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=49&page=1955</a>)</li>
+</ul></p>"
+  thumbnailUrl: ChialvoMallorca.jpg
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "http://www.chialvo.net/"}
 - 
   id: 110
   name: "Juan (Helen)"
