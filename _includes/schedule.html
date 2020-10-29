@@ -1,8 +1,15 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <a href="/past-talks" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right">Past Talks</a>     
+        <div class="col-lg-10 col-lg-offset-1 clearfix">
+            <a href="https://bit.ly/3ld2VTX" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right" style="margin: 2px;" target=_blank>
+                <svg class="icon icon-google-scholar" viewBox="0 0 30 32">
+                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-scholar"></use>
+                </svg> Calendar</a>
+            <a href="/past-talks" class="btn btn-primary waves-effect waves-button waves-light waves-float pull-right" style="margin: 2px;">
+                <svg class="icon icon-site" viewBox="0 0 30 32">
+                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
+                </svg> Past Talks</a>  
         </div>
         {% for day in site.data.schedule %}
         {% if day.past == false %}

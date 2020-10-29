@@ -57,8 +57,14 @@
   video: https://www.youtube.com/embed/XFuI9BEeJlI
 -
   id: 007
-  title: "TBA"
-  description: ""
+  title: "Disentangling the intrinsic functional architecture of the brain"
+  description: "<p>The brain has all of the hallmarks of a complex system, with meaningful activity occurring at a wide range of spatial and temporal scales. When measured with resting state fMRI, all of this activity is compressed into a single measurement of the resulting hemodynamic response for each voxel at each time point. However, by leveraging the spatial, temporal and spectral properties of different types of activity, we may be able to identify signatures in the rs-fMRI signal. In this talk, I will describe some of the types of activity that we expect to contribute to the rs-fMRI signal and features that might allow us to selectively extract them for use in research or the clinic.</p>
+<b>Recommended Articles:</b>
+<ul><li>Zhang X, Pan WJ, Keilholz SD. The relationship between BOLD and neural activity arises from temporally sparse events. Neuroimage. 2020 Feb 15;207:116390. doi: <a href='http://doi.org/10.1016/j.neuroimage.2019.116390'>10.1016/j.neuroimage.2019.116390</a>. Epub 2019 Nov 27. PMID: 31785420; PMCID: PMC7252681</li>
+<li>Kashyap A, Keilholz S. Dynamic properties of simulated brain network models and empirical resting-state data. Netw Neurosci. 2019 Feb 1;3(2):405-426. doi: <a href='http://doi.org/10.1162/netn_a_00070'>10.1162/netn_a_00070</a>. PMID: 30793089; PMCID: PMC6370489</li>
+<li>Abbas A, Belloy M, Kashyap A, Billings J, Nezafati M, Schumacher EH, Keilholz S. Quasi-periodic patterns contribute to functional connectivity in the brain. Neuroimage. 2019 May 1;191:193-204. doi: <a href='http://doi.org/10.1016/j.neuroimage.2019.01.076'>10.1016/j.neuroimage.2019.01.076</a>. Epub 2019 Feb 10. PMID: 30753928; PMCID: PMC6440826</li>
+<li>Yousefi B, Shin J, Schumacher EH, Keilholz SD. Quasi-periodic patterns of intrinsic brain activity in individuals and their relationship to global signal. Neuroimage. 2018 Feb 15;167:297-308. doi: <a href='http://doi.org/10.1016/j.neuroimage.2017.11.043'>10.1016/j.neuroimage.2017.11.043</a>. Epub 2017 Nov 22. PMID: 29175200; PMCID: PMC5845807</li>
+<li>Thompson GJ, Pan WJ, Keilholz SD. Different dynamic resting state fMRI patterns are linked to different frequencies of neural activity. J Neurophysiol. 2015 Jul;114(1):114-24. doi: <a href='http://doi.org/10.1152/jn.00235.2015'>10.1152/jn.00235.2015</a>. Epub 2015 Jun 3. Erratum in: J Neurophysiol. 2015 Dec;114(6):3400. PMID: 26041826; PMCID: PMC4507971</li></ul>"
   subtype: presentation
   speakers: [105]
   language: en
@@ -115,5 +121,13 @@
   description: ""
   subtype: presentation
   speakers: [116]
+  language: en
+  complexity: 
+-
+  id: 014
+  title: "Brain Metastability"
+  description: "Two paradigms continue to spar in the neuroscience at the local and system levels. At the elemental level of neurons, and grounded in the prominent work of many cellular physiologists including Eccles, Hodgkin and Huxley, overwhelming evidence implicate directional flows of information from functional unit to functional unit. At another system level, and thrusted by giants of system Neuroscience like Freeman, Eckhorn, Gray and Singer, focus is shifted to ensemble activities that yield evidence of functional synchronization. In their extreme forms, both paradigms eschew one important property of complex functional systems. A strictly serial model of synaptic propagation labors to achieve mass action. And a completely collective system presents many roadblocks to a dynamics of its self-organized activities, making for a brain frozen in time and inefficient at adaptation and flexibility. I will place in the reconciliatory middle ground the theory of brain metastability initially pioneered by Kelso. Its spatiotemporal complexity is permissive of information flows at the same time as transient coordination provides collective power at multiple spatial scales. I will provide mathematical bases for its study in models that prepare for the empirical encounter of its phenomenology; I will outline empirical evidence of its pervasiveness. Although metastability is conceptually contiguous with the two aforementioned paradigms, I will describe the pitfalls that follow from analyzing it as approximations of them, and I will argue that a shift in perspective and methods is required to fully understand brain complexity."
+  subtype: presentation
+  speakers: [117]
   language: en
   complexity: 

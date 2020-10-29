@@ -86,7 +86,7 @@
   id: 7
   name: "Enrico"
   surname: "Premi"
-  company: ""
+  company: "Spedali Civili Hospital"
   title: ""
   team: true
   bio: "I attended medical school at the University of Brescia (Italy), completing my residency program in Neurology at University of Brescia (Prof. Alessandro Padovani) in 2012. During this period, I had had the opportunity to increase my expertise in the field of neurodegenerative diseases (Prof. Barbara Borroni, Prof. Alessandro Padovani) from a clinical and research point of view. I focused my research interests on neuroimaging  (2007: San Raffaele University, Milan, Italy: Prof. Perani; 2009: SPM course, UCL, London, UK; 2012: Neuroimaging Lab, Fondazione “S.Lucia”, Rome, Italy, Prof. Bozzali). I currently have a permanent contract as clinical neurologist in the Stroke Unit, ASST “Spedali Civili” (Brescia, Italy): my everyday clinical practise is focused on the clinical evaluation and treatment of patients with cerebrovascular diseases (ischemic and haemorragic stroke). In parallel, I continued my research activity in collaboration with the Neurology Unit, Department of Clinical and Experimental Sciences, University of Brescia. Since my residency period my research interests was focused on the application of advanced neuroimaging techniques to neurodegenerative diseases, in particular Frontotemporal Dementia (FTD) to explore structural and functional correlates of the disease. In the last years I explored in particular: i) the preclinical phase of FTD (studying presymptomatic carriers of FTD causative mutations), ii) the behavioral/neuroimaging correlates in FTD, iii) the neuroanatomical correlates of Cognitive Reserve in FTD, iv) the utilization of advanced statistical approaches to clinical neuroimaging in neurodegenerative diseases."
@@ -253,11 +253,11 @@
   id: 105
   name: "Shella"
   surname: "Keilholz"
-  company: ""
+  company: "Georgia Institution of Technology"
   title: ""
   team: false
-  bio: ""
-  thumbnailUrl: 
+  bio: "Dr. Shella D. Keilholz received her B.S. degree in physics from the University of Missouri Rolla (now Missouri University of Science and Technology) and her Ph.D. degree in engineering physics at the University in Virginia.  Her thesis focused on quantitative measurements of perfusion with arterial spin labeling MRI. After graduation, she went to Dr. Alan Koretsky’s lab at the NIH as a Postdoctoral Researcher to learn functional neuroimaging. She is currently a Professor in the joint Emory/Georgia Tech Biomedical Engineering Department, Atlanta, GA, USA and Program Director for the 9.4 T MRI.  Her research seeks to elucidate the neurophysiological processes that underlie the BOLD signal and develop analytical techniques that leverage spatial and temporal information to separate contributions from different sources."
+  thumbnailUrl: Shella.jpg
   rockstar: true
   social: 
     - {name: "", link: ""}
@@ -404,7 +404,7 @@
   id: 116
   name: "Eva"
   surname: "Dyre"
-  company: ""
+  company: "Georgia Institution of Technology"
   title: ""
   team: false
   bio: "<p>Website: <a href='https://dyerlab.gatech.edu/'>https://dyerlab.gatech.edu/</a></p>"
@@ -412,3 +412,15 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://dyerlab.gatech.edu/"}
+- 
+  id: 117
+  name: "Emmanuelle"
+  surname: "Tognoli"
+  company: "Florida Atlantic University"
+  title: "Research Professor, Complex Systems and Brain Sciences"
+  team: false
+  bio: "Dr. Tognoli is a Research Professor in Complex Systems and Brain Sciences at Florida Atlantic University. Her overarching scientific motivation is to understand brain function and dysfunction using the concepts and tools of complexity science. Her main research areas are spatiotemporal brain metastability, the neurophysiological basis of social behavior and the development of complex experimental systems for human-machine and neuro-technological interfaces. Her thinking has been enriched by numerous collaborations with psychiatrists, neurologists, neuropsychologists, ophthalmologists, physicists, mathematicians, behavioral and biological scientists, psychologists and engineers."
+  thumbnailUrl: 'Emmanuelle_Tognoli.JPG'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=1oQwbxQAAAAJ&hl=en"}
