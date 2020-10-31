@@ -340,14 +340,15 @@
   id: 111
   name: "Daniele"
   surname: "Marinazzo"
-  company: ""
-  title: ""
+  company: "Ghent University"
+  title: "Professor of Neuroimaging Data Analysis"
   team: false
-  bio: ""
-  thumbnailUrl: 
+  bio: "I am a statistical physicist (MSc 2001, PhD 2007, University of Bari) who has always worked towards the characterization of the dynamics of complex systems, mainly the brain. From 2008 to 2011 I was a postdoc at CNRS, University Paris 5, performing in vivo electrophysiology and dynamic clamp experiments. Since 2011 I am Research Professor of Data Analysis at Ghent University, Belgium. I teach techniques of neuroimaging data analysis; I am member of the Belgian node of the International Neuroinformatics Coordinating Facility (INCF) and a mentor for Google Summer of Code on their behalf. I am co-editor in chief of Neurons, Behavior, Data Analysis, and Theory, deputy editor of PLOS Computational Biology, editor of NeuroImage, Network Neuroscience, Brain Topography, and PLOS One, editor of the PLOS complexity channel, and referee for many journals in the field of neuroscience and applied physics."
+  thumbnailUrl: thumbnail_photo_daniele_marinazzo.jpg
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "https://users.ugent.be/~dmarinaz/"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=OJbWSLoAAAAJ&hl=en"}
 - 
   id: 112
   name: "Konrad"
