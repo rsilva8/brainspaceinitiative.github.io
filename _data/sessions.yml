@@ -102,8 +102,16 @@
   complexity: 
 -
   id: 011
-  title: "Causal Models of Brain Network Dynamics"
-  description: ""
+  title: "Causal models of brain function"
+  description: "<p>This talk will focus on the modelling of resting state time series or endogenous neuronal activity. I will survey recent developments in modelling distributed neuronal fluctuations – spectral dynamic causal modelling (DCM) for functional MRI [1, 2] – and how this modelling rests upon functional connectivity. The dynamics of brain connectivity has recently attracted a lot of attention among brain mappers. I will also show a novel method to identify dynamic effective connectivity using spectral DCM [3]. Further, I will summarise the development of the next generation of DCMs towards large-scale, whole-brain schemes which are computationally inexpensive [4], to the other extreme of the development using more sophisticated and biophysically detailed modelling based on the canonical micro circuits [5]</p>
+<b>Recommended Articles:</b>
+<ol>
+<li>Friston, K. J., Kahan, J., Biswal, B., & Razi, A. (2014). A DCM for resting state fMRI. NeuroImage, 94(100), 396–407. <a href='https://doi.org/10.1016/j.neuroimage.2013.12.009'>https://doi.org/10.1016/j.neuroimage.2013.12.009</a></li>
+<li>Razi, A., Kahan, J., Rees, G., & Friston, K. J. (2015). Construct validation of a DCM for resting state fMRI. NeuroImage, 106, 1–14. <a href='https://doi.org/10.1016/j.neuroimage.2014.11.027'>https://doi.org/10.1016/j.neuroimage.2014.11.027</a></li>
+<li>Park, H. J., Friston, K. J., Pae, C., Park, B., & Razi, A. (2018). Dynamic effective connectivity in resting state fMRI. NeuroImage, 180(Pt B), 594–608. <a href='https://doi.org/10.1016/j.neuroimage.2017.11.033'>https://doi.org/10.1016/j.neuroimage.2017.11.033</a></li>
+<li>Razi, A., Seghier, M. L., Zhou, Y., McColgan, P., Zeidman, P., Park, H. J., Sporns, O., Rees, G., & Friston, K. J. (2017). Large-scale DCMs for resting-state fMRI. Network neuroscience (Cambridge, Mass.), 1(3), 222–241. <a href='https://doi.org/10.1162/NETN_a_00015'>https://doi.org/10.1162/NETN_a_00015</a></li>
+<li>Friston, K. J., Preller, K. H., Mathys, C., Cagnan, H., Heinzle, J., Razi, A., & Zeidman, P. (2019). Dynamic causal modelling revisited. NeuroImage, 199, 730–744. <a href='https://doi.org/10.1016/j.neuroimage.2017.02.045'>https://doi.org/10.1016/j.neuroimage.2017.02.045</a></li>
+</ol>"
   subtype: presentation
   speakers: [114]
   language: en
