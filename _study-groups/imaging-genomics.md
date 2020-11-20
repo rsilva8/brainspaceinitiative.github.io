@@ -30,15 +30,15 @@ Useful tools
 A. Biostatistics:
 
 1. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469943/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469943/)
-2. [http://www.augusta.edu/cancer/students/documents/biostat-sadek.pdf](http://www.augusta.edu/cancer/students/documents/biostat-sadek.pdf)
+2. [https://www.semanticscholar.org/paper/Biostatistics-101%3A-data-presentation.-Chan/11e92bea7d503eeeac6e8e89d27fc13c840e43ff#extracted](https://www.semanticscholar.org/paper/Biostatistics-101%3A-data-presentation.-Chan/11e92bea7d503eeeac6e8e89d27fc13c840e43ff#extracted)
 3. [http://cures.cardiff.ac.uk/files/2014/10/NSAMR-Statistics-Guide.pdf](http://cures.cardiff.ac.uk/files/2014/10/NSAMR-Statistics-Guide.pdf)
-4. [http://dheval.eieidoh.net:8880/DataHoarder/Medical/texts/Medical%20Statistics%20from%20A%20to%20Z.pdf](http://dheval.eieidoh.net:8880/DataHoarder/Medical/texts/Medical%20Statistics%20from%20A%20to%20Z.pdf) ('dictionary')
+4. [https://johnjhaddad.weebly.com/uploads/2/5/2/0/2520519/medical_statistics_from_a_to_z.pdf](https://johnjhaddad.weebly.com/uploads/2/5/2/0/2520519/medical_statistics_from_a_to_z.pdf) ('dictionary')
 
 B. Genetic Epidemiology
 
 1. [http://www.thelancet.com/series/genetic-epidemiology](http://www.thelancet.com/series/genetic-epidemiology) (start here!)
 2. [http://www.nature.com/nrg/journal/v15/n11/full/nrg3786.html](http://www.nature.com/nrg/journal/v15/n11/full/nrg3786.html)
-3. [http://dlib.bpums.ac.ir/multiMediaFile/20774524-4-1.pdf](http://dlib.bpums.ac.ir/multiMediaFile/20774524-4-1.pdf) (fundamentals)
+3. [http://www.dorak.info/epi/genetepi.html](http://www.dorak.info/epi/genetepi.html) (fundamentals)
 4. [http://www.math.vu.nl/sto/onderwijs/statisticalgenetics/dictaat20102011.pdf](http://www.math.vu.nl/sto/onderwijs/statisticalgenetics/dictaat20102011.pdf) (basic)
 
 C. Genetic Epidemiology of Psychiatric diseases
