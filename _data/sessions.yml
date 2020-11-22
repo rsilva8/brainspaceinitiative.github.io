@@ -100,6 +100,7 @@
   speakers: [111]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/U_GDvuKJoJM
 -
   id: 011
   title: "Causal models of brain function"
