@@ -7,7 +7,12 @@ image: banner_BSI_groups.jpg
 
 {{ page.title }} group: A platform to gain and share knowledge on imaging genomic analysis, to facilitate brainstorming that inspires new perspectives and spurs new ideas, and to promote collaborative efforts in addressing the challenges faced by the community.
 
+#### Imaging Genomics Discussion Group Resources
+
+* [Regulatory landscape in brain development and disease (Dec 3, 2020)](/blog/imaging-genomics-regulatory-elements)
+
 #### List of Resources
+
 Below are links to helpful articles related to genetics, ENIGMA
 projects, new techniques in imaging genomics, and other related topics.
 
