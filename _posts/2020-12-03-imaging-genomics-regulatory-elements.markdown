@@ -6,7 +6,7 @@ isStaticPost: false
 image: banner_BSI_news.jpg
 ---
 
-The following resources are today posted from the Imaging Genomics discussion group.
+The following resources are posted today from the Imaging Genomics discussion group.
 
 ###### Regulatory landscape in brain development and disease
 
