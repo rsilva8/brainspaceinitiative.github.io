@@ -69,6 +69,7 @@ typeoutFallback: "Neuroimaging"
 heroButtons:
  - {link: "https://forms.gle/bjkEymvaXd56on8t7", text: "Become a speaker"}
  - {link: "https://forms.gle/XtfPXW8vfoDPhFjW6", text: "Join now"}
+ - {link: "https://bit.ly/3ld2VTX", text: "Schedule"}
  
 # About Block
 aboutTitle: "About GDG DevFest"
