@@ -73,7 +73,7 @@
 - 
   date: "2020-11-06"
   dateReadable: "November 6"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -85,7 +85,7 @@
 - 
   date: "2020-11-20"
   dateReadable: "November 20"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -97,7 +97,7 @@
 - 
   date: "2020-12-04"
   dateReadable: "December 4"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
