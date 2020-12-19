@@ -117,6 +117,7 @@
   speakers: [114]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/Gmai5nMv2Zg
 -
   id: 012
   title: "Graph signal processing for computational neuroimaging"
