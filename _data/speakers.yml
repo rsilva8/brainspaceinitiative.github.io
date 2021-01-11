@@ -405,11 +405,12 @@
 - 
   id: 116
   name: "Eva"
-  surname: "Dyre"
-  company: "Georgia Institution of Technology"
-  title: ""
+  surname: "Dyer"
+  company: "Georgia Institution of Technology & Emory University"
+  title: "Assistant Professor"
   team: false
-  bio: "<p>Website: <a href='https://dyerlab.gatech.edu/'>https://dyerlab.gatech.edu/</a></p>"
+  bio: "Eva Dyer is an Assistant Professor in the Coulter Department of Biomedical Engineering at the Georgia Institute of Technology and Emory University. Dr. Dyer works at the intersection of neuroscience and machine learning, developing machine learning approaches to interpret complex neuroscience datasets, and designing new machine intelligence architectures inspired by the organization and function of biological brains. Dr. Dyer completed all of her degrees in Electrical & Computer Engineering, obtaining a Ph.D. and M.S. from Rice University, and a B.S. from the University of Miami. She is the recipient of a Sloan Fellowship in Neuroscience, an NSF CISE Research Initiation Initiative Award, was a previous Allen Institute for Brain Science Next Generation Leader, and was recently awarded a McKnight Award for Technological Innovations in Neuroscience. 
+  <p>Website: <a href='https://dyerlab.gatech.edu/'>https://dyerlab.gatech.edu/</a></p>"
   thumbnailUrl: 
   rockstar: true
   social: 

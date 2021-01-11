@@ -135,8 +135,8 @@
   video: https://www.youtube.com/embed/OcycifIAR0w
 -
   id: 013
-  title: ""
-  description: ""
+  title: "Representation learning and alignment in biological and artificial neural networks"
+  description: "Good representations are critical to the success of both biological and artificial information processing systems. In this talk, I will highlight new approaches that my lab is developing for representation learning and alignment, and demonstrate their applications in the analysis and interpretation of both biological and artificial neural networks. Being able to align neural representations, promises meaningful ways of comparing high-dimensional neural activities across times, subsets of neurons, individuals, and potentially across disease."
   subtype: presentation
   speakers: [116]
   language: en
