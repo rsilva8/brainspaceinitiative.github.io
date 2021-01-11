@@ -154,15 +154,15 @@
     	endTime: "12:00",
     	sessionIds: [014]
     }
-- 
-  date: "2021-03-26"
-  dateReadable: "March 26"
-  past: false
-  tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "11:00",
-    	endTime: "12:00",
-    	sessionIds: [009]
-    }
+# - 
+#   date: "2021-03-26"
+#   dateReadable: "March 26"
+#   past: false
+#   tracks: 
+#     - {title: "Neuroimaging", color: "#90be4e"}
+#   timeslots:
+#     - {
+#     	startTime: "11:00",
+#     	endTime: "12:00",
+#     	sessionIds: [009]
+#     }
