@@ -330,7 +330,15 @@
   company: "National University of Singapore"
   title: "Principal Investigator, Center for Sleep and Cognition, Department of Medicine, Yong Loo Lin School of Medicine"
   team: true
-  bio: "Website: <a href='http://neuroimaginglab.org/members.html'>http://neuroimaginglab.org/members.html</a>"
+  bio: "<p>Dr. Juan Helen ZHOU is an Associate Professor at the Center for Sleep and Cognition, and the Deputy Director, Center for Translational MR Research, Yong Loo Lin School of Medicine, National University of Singapore (NUS). She is also affiliated with Duke-NUS Medical School. Her laboratory studies selective brain network- based vulnerability in neuropsychiatric disorders using multimodal neuroimaging and machine learning approaches. She received Bachelor degree and Ph.D. from School of Computer Science and Engineering, Nanyang Technological University, Singapore. Dr. Zhou was an associate research scientist at Department of Child and Adolescent Psychiatry, New York University. She did a post-doctoral fellowship at the Memory and Aging Center, University of California, San Francisco, and in the Computational Biology Program at Singapore-MIT Alliance. Dr. Zhou is currently the Council Member and a previous Program Committee member of the Organization of Human Brain Mapping. She serves as an Editor of multiple journals including Human Brain Mapping, NeuroImage, and Communications Biology.</p>
+<p>Website: <a href='http://neuroimaginglab.org/members.html'>http://neuroimaginglab.org/members.html</a></p>
+<p><b>Recommended Articles</b>
+<ul>
+<li>Wang C, Ong JL, Patanaik A, Zhou J, Chee MW. Spontaneous eyelid closures link vigilance fluctuation with fMRI dynamic connectivity states. Proc Natl Acad Sci U S A. 2016;113(34):9653-9658. <a href='http://doi.org/10.1073/pnas.1523980113'>doi:10.1073/pnas.1523980113</a></li>
+<li>Chong JSX, Jang H, Kim HJ, et al. Amyloid and cerebrovascular burden divergently influence brain functional network changes over time. Neurology. 2019;93(16):e1514-e1525. <a href='http://doi.org/10.1212/WNL.0000000000008315'>doi:10.1212/WNL.0000000000008315</a></li> 
+<li>Zhang L, Biessels GJ, Hilal S, et al. Cerebral microinfarcts affect brain structural network topology in cognitively impaired patients. J Cereb Blood Flow Metab. 2021;41(1):105-115. <a href='http://doi.org/10.1177/0271678X20902187'>doi:10.1177/0271678X20902187</a></li>
+<li>Zhou J, Gennatas ED, Kramer JH, Miller BL, Seeley WW. Predicting regional neurodegeneration from the healthy brain functional connectome. Neuron. 2012;73(6):1216-1227. <a href='http://doi.org/10.1016/j.neuron.2012.03.004'>doi:10.1016/j.neuron.2012.03.004</a></li>
+</ul>"
   thumbnailUrl: JuanZhou.png
   rockstar: true
   social: 

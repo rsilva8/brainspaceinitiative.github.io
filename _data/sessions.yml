@@ -72,8 +72,8 @@
   video: https://www.youtube.com/embed/9G4Gjzp8ld8
 -
   id: 008
-  title: "TBA"
-  description: ""
+  title: "Mapping early brain network changes in neurodegenerative and cerebrovascular disorders: a longitudinal perspective"
+  description: "The spatial patterning of each neurodegenerative disease relates closely to a distinct structural and functional network in the human brain. This talk will mainly describe how brain network-sensitive neuroimaging methods such as resting-state fMRI and diffusion MRI can shed light on brain network dysfunctions associated with pathology and cognitive decline from preclinical to clinical dementia. I will first present our findings from two independent datasets on how amyloid and cerebrovascular pathology influence brain functional networks cross-sectionally and longitudinally in individuals with mild cognitive impairment and dementia. Evidence on longitudinal functional network organizational changes in healthy older adults and the influence of APOE genotype will be presented. In the second part, I will describe our work on how different pathology influences brain structural network and white matter microstructure. I will also touch on some new data on how brain network integrity contributes to behavior and disease progression using multivariate or machine learning approaches. These findings underscore the importance of studying selective brain network vulnerability instead of individual region and longitudinal design. Further developed with machine learning approaches, multimodal network-specific imaging signatures will help reveal disease mechanisms and facilitate early detection, prognosis and treatment search of neuropsychiatric disorders."
   subtype: presentation
   speakers: [110]
   language: en
@@ -141,6 +141,7 @@
   speakers: [116]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/QL_IPDTG4gY
 -
   id: 014
   title: "Brain Metastability"

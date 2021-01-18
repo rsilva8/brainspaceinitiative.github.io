@@ -109,7 +109,7 @@
 - 
   date: "2020-12-18"
   dateReadable: "December 18"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -121,7 +121,7 @@
 - 
   date: "2021-01-15"
   dateReadable: "January 15"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -138,8 +138,8 @@
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "11:00",
-    	endTime: "12:00",
+    	startTime: "10:00",
+    	endTime: "11:00",
     	sessionIds: [008]
     }
 - 
