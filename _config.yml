@@ -72,7 +72,7 @@ heroButtons:
  - {link: "https://bit.ly/3ld2VTX", text: "Schedule"}
  
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Brain Space Initiative"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
