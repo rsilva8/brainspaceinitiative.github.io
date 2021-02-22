@@ -120,10 +120,31 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
-### BSI Specific notes
+## BSI Specific notes
+
+### (Re)Install notes
+
+```
+$ gem install bundler jekyll
+$ gem pristine --all
+$ bundle install
+$ bundle update github-pages
+$ bundle exec jekyll serve
+
+# you may have to restore the backup css ./css/main.bak
+```
+
+### Contents notes
 
 * Speaker IDs start from 101, team IDs start from 1.
 * Team member and speaker IDs must be the same for one person.
 * Study group pages are under a collection in config.
 * `schedule.yml` contains session IDs, `sessions.yml` contains speaker IDs.
 * Each entry in `schedule.yml` has a `past` attribute, which determines if it will appear on the schedule page or past talks page.
+
+### Adding new speaker/talk
+
+* Check `./_data\speakers.yml` if s/he already there. If not, duplicate an existing speaker block and update the information.
+* Open `_data\sessions.yml`, duplicate an existing session block and update the corresponding information about the talk.
+* Open `_data\schedule.yml`, duplicate an existing schedule block and update the corresponding date/time information of the talk.
+

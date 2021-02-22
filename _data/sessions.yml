@@ -154,3 +154,51 @@
   speakers: [117]
   language: en
   complexity: 
+-
+  id: 015
+  title: "Emotion Representation in the Human Brain"
+  description: ""
+  subtype: presentation
+  speakers: [118]
+  language: en
+  complexity: 
+-
+  id: 016
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [119]
+  language: en
+  complexity: 
+-
+  id: 017
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [120]
+  language: en
+  complexity: 
+-
+  id: 018
+  title: "“In the wild“ brain activity decoding"
+  description: ""
+  subtype: presentation
+  speakers: [121]
+  language: en
+  complexity: 
+-
+  id: 019
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [123]
+  language: en
+  complexity: 
+-
+  id: 020
+  title: "Age-related brain changes and risk factors for cognitive decline"
+  description: ""
+  subtype: presentation
+  speakers: [122]
+  language: en
+  complexity: 

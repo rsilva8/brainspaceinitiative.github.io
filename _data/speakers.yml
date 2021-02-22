@@ -435,3 +435,80 @@
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=1oQwbxQAAAAJ&hl=en"}
+- 
+  id: 118
+  name: "Kragel"
+  surname: "Philip"
+  company: "Emory University"
+  title: "Assistant Professor of Psychology"
+  team: false
+  bio: ""
+  thumbnailUrl: 'kragel.png'
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://psychology.emory.edu/home/people/faculty/kragel-philip.html"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=IFATAmkAAAAJ&hl=en"}
+- 
+  id: 119
+  name: "Aapo"
+  surname: "Hyvärinen"
+  company: "University of Helsinki"
+  title: "Professor of Computer Science (Machine Learning)"
+  team: false
+  bio: ""
+  thumbnailUrl: 'omakuva16HYc_small.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.cs.helsinki.fi/u/ahyvarin/"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=UnrY-40AAAAJ&hl=en"}
+- 
+  id: 120
+  name: "Ioulia"
+  surname: "Kovelman"
+  company: "University of Michigan"
+  title: "Associate Professor of Psychology"
+  team: false
+  bio: ""
+  thumbnailUrl: 'Kovelman.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://lsa.umich.edu/psych/people/faculty/kovelman.html"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=TaGk6skAAAAJ&hl=en"}
+- 
+  id: 121
+  name: "Bertrand"
+  surname: "Thirion"
+  company: "Inria, Parietal Team"
+  title: "Researcher"
+  team: false
+  bio: ""
+  thumbnailUrl: 'bertrand-thirion-small.png'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://pages.saclay.inria.fr/bertrand.thirion/"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=MeKi5_AAAAAJ"}
+- 
+  id: 122
+  name: "Jessica"
+  surname: "Damoiseaux"
+  company: "Wayne State University"
+  title: " Associate Professor"
+  team: false
+  bio: ""
+  thumbnailUrl: 'Damoiseaux.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://clasprofiles.wayne.edu/profile/fi9526"}
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=g-reyKcAAAAJ&hl=en"}
+- 
+  id: 123
+  name: "Jason"
+  surname: "Allen"
+  company: " Emory University"
+  title: " Associate Professor"
+  team: false
+  bio: ""
+  thumbnailUrl: 'Jason_Allen.png'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://med.emory.edu/directory/profile/?u=JWALLEN"}
