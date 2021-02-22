@@ -122,17 +122,6 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
 
 ## BSI Specific notes
 
-### (Re)Install notes
-
-```
-$ gem install bundler jekyll
-$ gem pristine --all
-$ bundle install
-$ bundle update github-pages
-$ bundle exec jekyll serve
-
-# you may have to restore the backup css ./css/main.bak
-```
 
 ### Contents notes
 
@@ -147,4 +136,44 @@ $ bundle exec jekyll serve
 * Check `./_data\speakers.yml` if s/he already there. If not, duplicate an existing speaker block and update the information.
 * Open `_data\sessions.yml`, duplicate an existing session block and update the corresponding information about the talk.
 * Open `_data\schedule.yml`, duplicate an existing schedule block and update the corresponding date/time information of the talk.
+
+### (Re)Install notes
+
+```
+$ gem install bundler jekyll
+$ gem pristine --all
+$ bundle install
+$ bundle update github-pages
+$ bundle exec jekyll serve
+
+# you may have to restore the backup css ./css/main.bak
+```
+
+### Coding notes
+
+* There should be two branches: master and develop. Master is on github.com, develop should be in local.
+* The difference between master and develop is in `_config.yml`:
+```
+# master branch
+url: "https://brainspaceinitiative.github.io/"
+
+# develop branch
+url: "http://127.0.0.1:4000/"
+```
+* Make sure to edit the develop branch.
+```
+$ git checkout develop
+$ git status
+```
+* Once done, commit.
+```
+$ git add .
+$ git commit -m 'commit message'
+```
+* Switch to master branch, merge changes and push to live.
+```
+$ git checkout master
+$ git cherry-pick develop
+$ git push origin master
+```
 
