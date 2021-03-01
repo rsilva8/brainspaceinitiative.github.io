@@ -170,10 +170,11 @@ $ git status
 $ git add .
 $ git commit -m 'commit message'
 ```
-* Switch to master branch, merge changes and push to live.
+* Switch to master branch, merge changes, push to live, and then switch back to develop.
 ```
 $ git checkout master
 $ git cherry-pick develop
 $ git push origin master
+$ git checkout develop
 ```
 
