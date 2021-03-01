@@ -10,6 +10,7 @@ image: banner_BSI_groups.jpg
 #### Imaging Genomics Discussion Group Resources
 
 * [Regulatory landscape in brain development and disease (Dec 3, 2020)](/blog/imaging-genomics-regulatory-elements)
+* [Cell-type-specific resolution epigenetics (Feb 25, 2021)](/blog/imaging-genomics-Cell-type-specific-resolution-epigenetics)
 
 #### List of Resources
 
