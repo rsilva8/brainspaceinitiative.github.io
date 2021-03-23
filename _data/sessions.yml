@@ -182,7 +182,13 @@
 -
   id: 018
   title: "“In the wild“ brain activity decoding"
-  description: ""
+  description: "<p>To map the neural substrate of mental function, cognitive neuroimaging relies on controlled psychological manipulations that engage brain systems associated with specific cognitive processes. In order to build comprehensive atlases of cognitive function in the brain, it must assemble maps for many different cognitive processes, which often evoke overlapping patterns of activation. Such data aggregation faces contrasting goals: on the one hand finding correspondences across vastly different cognitive experiments, while on the other hand precisely describing the function of any given brain region.</p> 
+<p>In this talk I will present two analysis frameworks that tackle these difficulties and thereby enable the generation of brain atlases for cognitive function.  The first one uses deep-learning techniques to extract representations—task-optimized networks—that form a set of basis cognitive dimensions relevant to the psychological manipulations. This approach does not assume any prior knowledge of the commonalities shared by the studies in the corpus; those are inferred during model training.</p> 
+<p>The second one leverages ontologies of cognitive concepts and multi-label brain decoding to map the neural substrate of these concepts. Crucially, it can accurately decode the cognitive concepts recruited in new tasks. These results demonstrate that aggregating independent task-fMRI studies can provide a more precise global atlas of selective associations between brain and cognition.</p>
+<b>Recommended Articles:</b>
+<ul><li>“NeuroQuery, comprehensive meta-analysis of human brain mapping.” Jérôme Dockès, Russell Poldrack, Romain Primet, Hande Gözükan, Tal Yarkoni, Fabian Suchanek, Bertrand Thirion, Gaël VaroquauxeLife, eLife Sciences Publication, 2020. <a href='https://hal.archives-ouvertes.fr/hal-02485642v2'>https://hal.archives-ouvertes.fr/hal-02485642v2</a></li>
+<li>“Atlases of cognition with large-scale human brain mapping.” Gaël Varoquaux, Yannick Schwartz, Russell Poldrack, Baptiste Gauthier, Danilo Bzdok, Jean-Baptiste Poline, Bertrand Thirion, PLoS Computational Biology, Public Library of Science, 2018, 14 (11), pp.e1006565. <a href='https://www.hal.inserm.fr/inserm-02146700'>https://www.hal.inserm.fr/inserm-02146700</a></li>
+<li>“Extracting Universal Representations of Cognition across Brain-Imaging Studies.” Arthur Mensch, Julien Mairal, Bertrand Thirion, Gaël Varoquaux, PLoS Computational Biology. <a href='https://hal.archives-ouvertes.fr/hal-01874713v2'>https://hal.archives-ouvertes.fr/hal-01874713v2</a></li></ul>"
   subtype: presentation
   speakers: [121]
   language: en
@@ -203,3 +209,22 @@
   speakers: [122]
   language: en
   complexity: 
+-
+  id: 021
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [124]
+  language: en
+  complexity: 
+-
+  id: 022
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [125]
+  language: en
+  complexity: 
+
+
+

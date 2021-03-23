@@ -481,7 +481,7 @@
   company: "Inria, Parietal Team"
   title: "Researcher"
   team: false
-  bio: ""
+  bio: "Bertrand Thirion is the leader of the Parietal team, part of INRIA research institute, Saclay, France, that develops statistics and machine learning techniques for brain imaging. He contributes both algorithms and software, with a special focus on functional neuroimaging applications. He is involved in the Neurospin (CEA) neuroimaging center, one of the leading high-field MRI for brain imaging places. Bertrand Thirion is also head of the DATAIA Institute that federates research on AI, data science and their societal impact in Paris-Saclay University. He has recently been appointed as member of the expert committee in charge of advising the government during the Covid-19 pandemic."
   thumbnailUrl: 'bertrand-thirion-small.png'
   rockstar: true
   social: 
@@ -512,3 +512,27 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://med.emory.edu/directory/profile/?u=JWALLEN"}
+- 
+  id: 124
+  name: "Manish"
+  surname: "Saggar"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 125
+  name: "Selin"
+  surname: "Aviyente"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+    - {name: "", link: ""}

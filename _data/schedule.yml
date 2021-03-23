@@ -215,6 +215,18 @@
     	sessionIds: [017]
     }
 - 
+  date: "2021-08-27"
+  dateReadable: "August 27"
+  past: false
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [021]
+    }
+- 
   date: "2021-09-24"
   dateReadable: "September 24"
   past: false
@@ -225,4 +237,16 @@
     	startTime: "11:00",
     	endTime: "12:00",
     	sessionIds: [020]
+    }
+- 
+  date: "2021-10-29"
+  dateReadable: "October 29"
+  past: false
+  tracks: 
+    - {title: "Neuroimaging", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [022]
     }
