@@ -145,7 +145,7 @@
 - 
   date: "2021-02-26"
   dateReadable: "February 26"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
@@ -157,7 +157,7 @@
 - 
   date: "2021-03-26"
   dateReadable: "March 26"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:
