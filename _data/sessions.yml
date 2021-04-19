@@ -158,7 +158,11 @@
 -
   id: 015
   title: "Emotion Representation in the Human Brain"
-  description: ""
+  description: "<p>Emotion is central to human experience; it influences cognition, behavior, mental health, and well-being. Despite their importance and self-evidence, emotions are notoriously difficult to define scientifically. In this talk, I will present research combining approaches from cognitive neuroscience and machine learning to build models of human brain activity that track the engagement of distinct affective processes. I will discuss evidence suggesting that brain representations of emotional states are high-dimensional, distributed, and are inconsistent with intuitive psychological models that organize emotions along a small number of dimensions, such as valence and arousal. Building and validating quantitative models of human brain activity promises to provide insight into the nature of emotion provide novels targets for cognitive and therapeutic interventions.</p>
+<b>Recommended Articles:</b>
+<ul><li>Kragel, P. A., Reddan, M. C., LaBar, K. S., & Wager, T. D. (2019). Emotion schemas are embedded in the human visual system. Science advances, 5(7), eaaw4358. <a href='https://advances.sciencemag.org/content/5/7/eaaw4358'>Link to Paper</a></li>
+<li>Kragel, P. A., Koban, L., Barrett, L. F., & Wager, T. D. (2018). Representation, pattern information, and brain signatures: from neurons to neuroimaging. Neuron, 99(2), 257-273. <a href='https://www.cell.com/neuron/fulltext/S0896-6273(18)30477-X'>Link to Paper</a></li>
+<li>Kragel, P. A., & LaBar, K. S. (2016). Decoding the nature of emotion in the brain. Trends in cognitive sciences, 20(6), 444-455. <a href='https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(16)30004-3'>Link to Paper</a></li></ul>"
   subtype: presentation
   speakers: [118]
   language: en

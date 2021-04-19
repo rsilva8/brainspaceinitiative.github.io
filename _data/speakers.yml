@@ -442,7 +442,7 @@
   company: "Emory University"
   title: "Assistant Professor of Psychology"
   team: false
-  bio: ""
+  bio: "Dr. Kragel received his Bachelor of Science and Engineering (2006) and a Masters in Engineering Management (2007) at Duke University’s Pratt School of Engineering. He completed his Ph.D. in Psychology and Neuroscience (2015) at Duke University and subsequently trained as a postdoctoral fellow at the University of Colorado Boulder’s Institute of Cognitive Science. He is currently an Assistant Professor in the Psychology Department at Emory University. Dr. Kragel’s research explores the brain and computational basis of cognitive and affective behavior in humans, with a particular focus on understanding the nature of emotions – where they come from and what makes them unique from other mental phenomena. His research combines ideas from cognitive neuroscience and machine learning to build quantitative models that are both sensitive and specific to the engagement of individual mental processes."
   thumbnailUrl: 'kragel.png'
   rockstar: true
   social: 
