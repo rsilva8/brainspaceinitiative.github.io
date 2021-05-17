@@ -63,7 +63,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Brain Space Initiative"
-eventDate: "<typeout>Next Talk on April 30th 2021, 11 AM EST</typeout>"
+eventDate: "<typeout>Next Talk on May 28th 2021, 11 AM EST</typeout>"
 typeoutTextValues: '"", " Specialized Study Groups", " Scientific Panel Discussions", " Virtual Learning Environments", " Multiteam Collaborations", " Brain Research", " Neuroimaging", " Data Science", " Neuroinformatics", " Feedback on Ongoing Studies", " Mentoring", " Improve Research Quality"'
 typeoutFallback: "Neuroimaging"
 heroButtons:
