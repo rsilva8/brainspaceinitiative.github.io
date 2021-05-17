@@ -169,7 +169,7 @@
 - 
   date: "2021-04-30"
   dateReadable: "April 30"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:

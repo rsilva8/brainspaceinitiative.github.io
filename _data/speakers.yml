@@ -455,7 +455,7 @@
   company: "University of Helsinki"
   title: "Professor of Computer Science (Machine Learning)"
   team: false
-  bio: ""
+  bio: "Aapo Hyvarinen studied undergraduate mathematics at the universities of Helsinki (Finland), Vienna (Austria), and Paris (France), and obtained a Ph.D. degree in Information Science at the Helsinki University of Technology in 1997.  After post-doctoral work at the Helsinki University of Technology, he moved to the University of Helsinki in 2003, where he was appointed Professor in 2008, at the Department of Computer Science. From 2016 to 2019, he was Professor at the Gatsby Computational Neuroscience Unit, University College London, UK.  Aapo Hyvarinen is the main author of the books "Independent Component Analysis" (2001) and "Natural Image Statistics" (2009), Action Editor at the Journal of Machine Learning Research and Neural Computation, and has worked as Area Chair at ICML, ICLR, AISTATS, UAI, ACML and NeurIPS. His current work concentrates on unsupervised machine learning and its applications to neuroscience."
   thumbnailUrl: 'omakuva16HYc_small.jpg'
   rockstar: true
   social: 
