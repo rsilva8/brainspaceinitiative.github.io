@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Multivariate & Blind Subspace Methods
+title: "#BSIsubspace Section"
 leader: 7
 image: banner_BSI_groups.jpg
 ---
 
-{{ page.title }} group: A discussion space to explore the latest innovations and relationships among multivariate and subspace analysis methods.
+A (sub)space to discuss and learn about the relationships among classical & novel multivariate and subspace analysis methods 🤓
 
 
 #### List of Resources
