@@ -180,6 +180,7 @@
   speakers: [119]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/FwdFOGfp8Vs
 -
   id: 017
   title: "The Bilingual Brain: Uncovering Neural Architecture for Learning to Read across Languages"
