@@ -135,6 +135,14 @@
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
 - 
+  id: 15
+  name: "Krissy"
+  surname: "Knight"
+  title: "Multimodal Data Fusion of Brain Imaging"
+  thumbnailUrl: Photo_KrissyK.jpg
+  studygroup: true
+  social: 
+- 
   id: 104
   name: "Peter"
   surname: "Bandettini"

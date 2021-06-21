@@ -134,8 +134,13 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
 ### Adding new speaker/talk
 
 * Check `./_data\speakers.yml` if s/he already there. If not, duplicate an existing speaker block and update the information.
-* Open `_data\sessions.yml`, duplicate an existing session block and update the corresponding information about the talk.
-* Open `_data\schedule.yml`, duplicate an existing schedule block and update the corresponding date/time information of the talk.
+* Open `./_data\sessions.yml`, duplicate an existing session block and update the corresponding information about the talk.
+* Open `./_data\schedule.yml`, duplicate an existing schedule block and update the corresponding date/time information of the talk.
+
+### Adding new team members
+
+* Check `./_data\speakers.yml` if s/he already there. If not, duplicate an existing speaker block and update the information.
+* Check `./_data\team.yml`, if s/he already there. If not, duplicate an existing team member block and update the information.
 
 ### (Re)Install notes
 

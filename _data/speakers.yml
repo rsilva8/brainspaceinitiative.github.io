@@ -193,6 +193,19 @@
   rockstar: true
   social: 
     - {name: "google-scholar", link: "https://scholar.google.com/citations?user=nm3liowAAAAJ&hl=en"}
+- 
+  id: 15
+  name: "Krissy"
+  surname: "Knight"
+  company: "University of California San Francisco"
+  title: "Postdoctoral Researcher, Department of Radiology and Biomedical Imaging"
+  team: true
+  bio: "<p>Interests: Krissy studies the joint analysis of diverse biomarkers, including (but not limited to) neuroimaging and genetic sources, with the aim of gaining a deeper understanding of the basis and progression of neuropathological illnesses. She loves implementing and comparing advanced statistical methods for the integration of big data sources. Krissy welcomes new, multi-disciplinary collaborations and is open to hearing interesting ideas and feedback from others in related fields.</p>
+<p>Research: Her PhD work focuses on the development of multi-modal data fusion techniques for the elucidation of Alzheimer’s Disease, utilizing structural and functional brain imaging, genetic, and clinical data derived from ADNI. Emphasis is placed on assessing the statistical reliability of decomposition techniques in order to preserve interpretability and generalizability for future studies.</p>
+<p>Education: Krissy received her Bachelor of Science in Mathematics with a concentration in Statistics at Austin Peay State University in Clarksville, TN in 2014. She received her Masters (2017) and her PhD in Statistics (2021) from the University of Georgia, Athens, GA.</p>"
+  thumbnailUrl: Photo_KrissyK.jpg
+  rockstar: true
+  social: 
     
 # THE FOLLOWING ARE ACTUAL SPEAKERS
 - 
