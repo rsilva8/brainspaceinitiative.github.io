@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Multimodal Data Fusion of Brain Imaging Data
-leader: 2
+# leader ID = speaker ID - 1
+leader: 14
 image: banner_BSI_groups.jpg
 ---
 

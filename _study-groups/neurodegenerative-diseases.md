@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neurodegenerative diseases
+# leader ID = speaker ID - 1
 leader: 6
 image: banner_BSI_groups.jpg
 ---

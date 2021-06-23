@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Imaging Genomics
+# leader ID = speaker ID - 1
 leader: 0
 image: banner_BSI_groups.jpg
 ---

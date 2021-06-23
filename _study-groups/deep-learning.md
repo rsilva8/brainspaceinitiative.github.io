@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deep learning
+# leader ID = speaker ID - 1
 leader: 4
 leader2: 13
 image: banner_BSI_groups.jpg
@@ -14,7 +15,7 @@ image: banner_BSI_groups.jpg
 <!-- #### Journal Club Info 
 [Coming soon] -->
 
-#### Group Leader
+#### Group Leaders
 <div class="text-left people-modal">
     <div class="modal-body">
         <div class="people-details">

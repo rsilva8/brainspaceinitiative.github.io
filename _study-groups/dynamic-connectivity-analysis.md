@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dynamic Activity/Connectivity Analysis
+# leader ID = speaker ID - 1
 leader: 1
 image: banner_BSI_groups.jpg
 ---

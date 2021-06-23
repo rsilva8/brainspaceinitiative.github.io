@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Sharing & Population Neuroscience
+# leader ID = speaker ID - 1
 leader: 3
 image: banner_BSI_groups.jpg
 ---

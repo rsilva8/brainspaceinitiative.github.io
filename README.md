@@ -141,6 +141,7 @@ Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/b
 
 * Check `./_data\speakers.yml` if s/he already there. If not, duplicate an existing speaker block and update the information.
 * Check `./_data\team.yml`, if s/he already there. If not, duplicate an existing team member block and update the information.
+* Update `./_study-groups` page if applicable.  
 
 ### (Re)Install notes
 
