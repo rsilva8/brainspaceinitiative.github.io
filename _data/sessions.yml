@@ -184,7 +184,10 @@
 -
   id: 017
   title: "The Bilingual Brain: Uncovering Neural Architecture for Learning to Read across Languages"
-  description: ""
+  description: "<p>Learning to read change's mind and brain. How might bilingual experience influence children’s neural architecture for learning to read?  Words have sounds and meanings. The neural architecture for learning to read includes the formation of sound-to-print and meaning-to-print neurocognitive pathways.  Importantly, there is also significant cross-linguistic variation in how children form these associations. In phonologically transparent such as Italian, children develop stronger sound-to-print networks, whereas learners of Chinese form stronger meaning-to-print associations. To understand how bilingual experiences influence children’s developing neural architecture for learning to read we use fNIRS with Spanish-English and Chinese-English bilingual children in the US. Several key findings emerge from these data that we will discuss during the presentation. First, the findings reveal principled bilingual transfer effects of children’s phonological, morphological, and lexical processes for learning to read.  Second, the findings reveal the Universal aspects of literacy development across these typologically-distinct languages. The findings are discussed in light of theoretical perspectives on learning to read, bilingual development, as well as the universal and language-specific aspects of language, literacy, and dyslexia.</p>
+<b>Recommended Articles:</b>
+<ul><li>Arredondo MM, Hu XS, Seifert E, Satterfield T, Kovelman I. “Bilingual exposure enhances left IFG specialization for language in children.” Bilingualism: Language and Cognition. 2019. <a href='https://doi.org/10.1017/S1366728918000512'>Link to Paper</a></li>
+<li>Ip KI, Hsu LS, Arredondo MM, Tardif T, Kovelman I. “Brain bases of morphological processing in Chinese-English bilingual children.” Developmental Science. 2016. <a href='https://doi.org/10.1111/desc.12449'>Link to Paper</a></li></ul>"
   subtype: presentation
   speakers: [120]
   language: en
