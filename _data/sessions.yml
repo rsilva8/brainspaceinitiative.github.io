@@ -192,6 +192,7 @@
   speakers: [120]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/rwCpf8iXutw
 -
   id: 018
   title: "“In the wild“ brain activity decoding"
