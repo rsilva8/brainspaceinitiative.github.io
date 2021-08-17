@@ -517,7 +517,7 @@
   id: 123
   name: "Jason"
   surname: "Allen"
-  company: " Emory University"
+  company: "Emory University"
   title: " Associate Professor"
   team: false
   bio: "Dr. Allen received his BS in Cellular and Molecular Biology from Tulane University and his MD and PhD in Neuroscience from Georgetown University School of Medicine. His thesis focused on the modulation of neuronal injury by metabotropic glutamate receptors using cell culture and animal models of trauma. He then completed neurology and diagnostic radiology residencies as well as a 2-year neuroradiology fellowship at New York University. Dr. Allen is currently an Associate Professor of Radiology and Imaging Sciences and Neurology at Emory University and an Associate Professor of Biomedical Engineering at Georgia Institute of Technology. He is the Director of the Neuroradiology Division and the Medical Director of the Center for Systems Imaging at Emory University. His laboratory currently focuses on defining the changes in structural and functional brain connectivity after concussion, particularly in patients with vestibular impairment, and developing diagnostic and prognostic imaging markers for this disorder. In addition, he is interested in developing and refining neurorehabilitation techniques for post-concussion vestibular impairment as well as understanding neural plasticity related to successful therapy."
@@ -529,14 +529,14 @@
   id: 124
   name: "Manish"
   surname: "Saggar"
-  company: ""
-  title: ""
+  company: "Department of Psychiatry & Behavioral Sciences, Stanford University School of Medicine"
+  title: "Assistant Professor"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Manish is a computational neuroscientist, who is trained in machine learning, neuroscience and psychiatry. The overarching goal of his research is to develop reliable computational methods that will allow for characterizing and modeling temporal dynamics of brain activity, without necessarily averaging data in either space or time at the outset. He firmly believes that the spatiotemporal richness in brain activity might hold the key to finding the person- and disorder-centric biomarkers. Manish received his bachelor’s degree from the Indian Institute of Information Technology (Allahabad) and Masters and PhD from the University of Texas at Austin, advised by Drs. Risto Miikkulainen and Clifford Saron. He did his Postdoctoral Fellowship at the Stanford University School of Medicine, mentored by Dr. Allan Reiss. He is currently an assistant professor in the Department of Psychiatry & Behavioral Sciences at Stanford University School of Medicine and directs the Brain Dynamics Lab."
+  thumbnailUrl: 'ManishSaggar.png'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "https://stanford.edu/~saggar/newsite/index.html"}
 - 
   id: 125
   name: "Selin"
