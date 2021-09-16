@@ -217,7 +217,7 @@
 - 
   date: "2021-08-27"
   dateReadable: "August 27"
-  past: false
+  past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
   timeslots:

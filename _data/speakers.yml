@@ -505,10 +505,10 @@
   name: "Jessica"
   surname: "Damoiseaux"
   company: "Wayne State University"
-  title: " Associate Professor"
+  title: " Associate Professor, Institute of Gerontology and Department of Psychology"
   team: false
-  bio: ""
-  thumbnailUrl: 'Damoiseaux.jpg'
+  bio: "Dr. Jessica Damoiseaux is an Associate Professor in the Institute of Gerontology and Department of Psychology at Wayne State University. Dr. Damoiseaux received her MSc in Psychology from Utrecht University and PhD in Cognitive Neuroscience from VU University Amsterdam. She then went on to do a postdoctoral fellowship at Stanford University. She currently heads the Connect Lab. Her research investigates the application of MRI-derived brain measures, with an emphasis on brain network approaches, to study typical aging and early detection of neurodegenerative disease."
+  thumbnailUrl: 'JDamoiseaux2019.jpeg'
   rockstar: true
   social: 
     - {name: "site", link: "https://clasprofiles.wayne.edu/profile/fi9526"}

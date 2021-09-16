@@ -226,7 +226,8 @@
 -
   id: 020
   title: "Age-related brain changes and risk factors for cognitive decline"
-  description: ""
+  description: "<p>Functional differences in the default mode network and related memory systems are observed in typical aging. Our research, as an example, shows that particularly functional connectivity within the posterior memory system appears affected by aging. Furthermore, we found that negative subsequent memory effects may differentially support memory performance across the lifespan, suggesting a developmental maturation and age-related decline.</p>
+<p>The posterior default mode regions also appear most vulnerable to early Alzheimer’s disease related brain changes. Subjective cognitive decline, the perceived decline in cognitive abilities in the absence of deficits on clinical assessments, is a known risk factor for Alzheimer’s disease. Our work shows that participants with subjective cognitive decline have lower default mode network functional connectivity compared to older adults without, particularly in posterior regions, suggesting possible early functional brain changes in older adults with subjective cognitive decline in similar brain regions as observed in early Alzheimer’s disease. However, as these findings are based on cross-sectional data, they don’t provide insight in actual brain changes in those with subjective cognitive decline. One of our current lines of research aims to address this gap in the literature by examining changes in functional connectivity over a three-year period. In line with our cross-sectional finding, our longitudinal results reveal a steeper decline in default mode network functional connectivity in older adults with subjective cognitive decline than those without.</p>"
   subtype: presentation
   speakers: [122]
   language: en
