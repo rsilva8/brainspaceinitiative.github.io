@@ -232,6 +232,7 @@
   speakers: [122]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/YsFGInXzJOo
 -
   id: 021
   title: "Precision dynamical mapping using topological data analysis reveals a unique hub-like transition state at rest"
