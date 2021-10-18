@@ -1,6 +1,6 @@
 - 
   date: "2020-08-14"
-  dateReadable: "August 14"
+  dateReadable: "August 14, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -12,7 +12,7 @@
     }
 - 
   date: "2020-08-28"
-  dateReadable: "August 28"
+  dateReadable: "August 28, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -24,7 +24,7 @@
     }
 - 
   date: "2020-09-11"
-  dateReadable: "September 11"
+  dateReadable: "September 11, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -36,7 +36,7 @@
     }
 - 
   date: "2020-09-25"
-  dateReadable: "September 25"
+  dateReadable: "September 25, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -48,7 +48,7 @@
     }
 - 
   date: "2020-10-09"
-  dateReadable: "October 9"
+  dateReadable: "October 9, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -60,7 +60,7 @@
     }
 - 
   date: "2020-10-23"
-  dateReadable: "October 23"
+  dateReadable: "October 23, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -72,7 +72,7 @@
     }
 - 
   date: "2020-11-06"
-  dateReadable: "November 6"
+  dateReadable: "November 6, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -84,7 +84,7 @@
     }
 - 
   date: "2020-11-20"
-  dateReadable: "November 20"
+  dateReadable: "November 20, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -96,7 +96,7 @@
     }
 - 
   date: "2020-12-04"
-  dateReadable: "December 4"
+  dateReadable: "December 4, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -108,7 +108,7 @@
     }
 - 
   date: "2020-12-18"
-  dateReadable: "December 18"
+  dateReadable: "December 18, 2020"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -120,7 +120,7 @@
     }
 - 
   date: "2021-01-15"
-  dateReadable: "January 15"
+  dateReadable: "January 15, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -132,7 +132,7 @@
     }
 - 
   date: "2021-01-29"
-  dateReadable: "January 29"
+  dateReadable: "January 29, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -144,7 +144,7 @@
     }
 - 
   date: "2021-02-26"
-  dateReadable: "February 26"
+  dateReadable: "February 26, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -156,7 +156,7 @@
     }
 - 
   date: "2021-03-26"
-  dateReadable: "March 26"
+  dateReadable: "March 26, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -168,7 +168,7 @@
     }
 - 
   date: "2021-04-30"
-  dateReadable: "April 30"
+  dateReadable: "April 30, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -180,7 +180,7 @@
     }
 - 
   date: "2021-05-28"
-  dateReadable: "May 28"
+  dateReadable: "May 28, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -192,7 +192,7 @@
     }
 - 
   date: "2021-06-25"
-  dateReadable: "June 25"
+  dateReadable: "June 25, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -204,7 +204,7 @@
     }
 - 
   date: "2021-07-30"
-  dateReadable: "July 30"
+  dateReadable: "July 30, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -216,7 +216,7 @@
     }
 - 
   date: "2021-08-27"
-  dateReadable: "August 27"
+  dateReadable: "August 27, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -228,7 +228,7 @@
     }
 - 
   date: "2021-09-24"
-  dateReadable: "September 24"
+  dateReadable: "September 24, 2021"
   past: true
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}
@@ -240,7 +240,7 @@
     }
 - 
   date: "2021-10-29"
-  dateReadable: "October 29"
+  dateReadable: "October 29, 2021"
   past: false
   tracks: 
     - {title: "Neuroimaging", color: "#90be4e"}

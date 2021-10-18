@@ -541,11 +541,11 @@
   id: 125
   name: "Selin"
   surname: "Aviyente"
-  company: ""
-  title: ""
+  company: "Department of Electrical and Computer Engineering, Michigan State University"
+  title: "Professor"
   team: false
-  bio: ""
-  thumbnailUrl: ''
+  bio: "Selin Aviyente received her B.S. degree with high honors in Electrical and Electronics engineering from Bogazici University, Istanbul in 1997. She received her M.S. and Ph.D. degrees, both in Electrical Engineering: Systems, from the University of Michigan, Ann Arbor, in 1999 and 2002, respectively. She joined the Department of Electrical and Computer Engineering at Michigan State University in 2002, where she is currently a Professor and Associate Chair for Undergraduate Studies. Her research focuses on statistical and nonstationary signal processing, higher-order data representations and network science with applications to neurophysiological signals. She has authored more than 150 peer-reviewed journal and conference papers. She is the recipient of a 2005 Withrow Teaching Excellence Award, a 2008 NSF CAREER Award and a 2021 Withrow Excellence in Diversity Award. She is currently serving on several technical committees of IEEE Signal Processing Society and is the vice-chair of IEEE Bioimaging and Signal Processing (BISP) technical committee. She is an Associate Editor for IEEE Open Journal of Signal Processing and Digital Signal Processing."
+  thumbnailUrl: 'aviyente2015.jpg'
   rockstar: true
   social: 
-    - {name: "", link: ""}
+    - {name: "site", link: "https://sites.google.com/msu.edu/aviyente/home"}

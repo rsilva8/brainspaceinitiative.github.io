@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep learning
+title: Deep Learning
 # leader ID = speaker ID - 1
 leader: 4
 leader2: 13

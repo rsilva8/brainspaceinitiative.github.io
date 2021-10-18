@@ -247,8 +247,12 @@
   video: https://www.youtube.com/embed/CZ9Fhr6Es1Y
 -
   id: 022
-  title: "TBA"
-  description: ""
+  title: "Cross-Frequency Coupling in the Brain"
+  description: "<p>Cognitive processing and goal-directed behavior are hypothesized to be the result of frequency specific interactions of specialized but widely distributed cortical regions. Cross-frequency coupling (CFC) has been proposed to coordinate the neural dynamics between these distinct frequency bands across spatial and temporal scales.  One particular form of CFC known as phase amplitude coupling (PAC) quantifies the interplay between the phase of a slower oscillation and the envelope of a faster oscillation. The existing methods for assessing PAC have some limitations including limited frequency resolution, sensitivity to noise, data length and sampling rate due to the inherent dependence on bandpass filtering. Moreover, most of the current applications of PAC to neuronal data focuses on average coupling within a single channel. In this talk, I will present some recent developments in the computation of PAC. First, I will introduce a new time-frequency based phase-amplitude coupling measure that addresses the biases encountered by Hilbert transform based PAC measures. Next, I will introduce an extension of PAC analysis from the bivariate to the multivariate case allowing us to look at whole brain cross-frequency coupling networks. Finally, I will present applications of these new PAC computation tools on EEG data collected during error monitoring.</p>
+<b>Recommended Articles:</b>
+<ul><li>T. T. K. Munia and S. Aviyente, “Time-frequency based phase-amplitude coupling measure for neuronal oscillations,” Scientific Reports, 2019. <a href='https://doi.org/10.1038/s41598-019-48870-2'>https://doi.org/10.1038/s41598-019-48870-2</a></li>
+<li>T. T. K. Munia and S. Aviyente, “Comparison of wavelet and RID-Rihaczek based methods for phase-amplitude coupling,” IEEE Signal Processing Letters, vol. 26, pp. 1897-1901, 2019. <a href='https://doi.org/10.1109/LSP.2019.2952025'>https://doi.org/10.1109/LSP.2019.2952025</a></li>
+<li>T. T. K. Munia and S. Aviyente, “Multivariate Analysis of Bivariate Phase-Amplitude Coupling in EEG Data Using Tensor Robust PCA,” IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 1268-1278, 2021. <a href='https://doi.org/10.1109/TNSRE.2021.3092890'>https://doi.org/10.1109/TNSRE.2021.3092890</a></li></ul>"
   subtype: presentation
   speakers: [125]
   language: en
