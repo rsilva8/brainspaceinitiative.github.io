@@ -257,6 +257,7 @@
   speakers: [125]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/edyvLObCPTU
 -
   id: 023
   title: "The lure of misleading causal statements in functional connectivity research"
