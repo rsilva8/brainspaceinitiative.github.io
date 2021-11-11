@@ -1,0 +1,26 @@
+- 
+  id: 1
+  name: "Gaia"
+  surname: "Zin"
+  company: "."
+  title: "."
+  team: true
+  bio: "."
+  thumbnailUrl: 'gaia_zin.jpeg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?hl=en&user=Q480I1oAAAAJ"}
+- 
+  id: 6
+  name: "Carlos H."
+  surname: "Mendoza-Cardenas"
+  company: "University of Delaware"
+  title: "Ph.D. candidate"
+  team: true
+  bio: "I am a data scientist with a passion for the development and application of statistical and computational methods to understand and solve complex problems. I have a strong background in digital signal processing, training and research experience with unsupervised and supervised learning methods, experience with data wrangling and data cleaning of large (>2TB) data sets, and with the execution of experiments in high-performance clusters using Slurm and batch scripts. I also have extensive experience as a Linux user and administrator. In general, I like to strike a balance between a solid theoretical understanding of the mathematical methods and the software development needed to solve problems."
+  thumbnailUrl: 'chmendozac.jpg'
+  rockstar: true
+  social: 
+    - {name: "google-scholar", link: "https://scholar.google.com/citations?user=1qyz9gYAAAAJ&hl"}
+    - {name: "site", link: "https://www.eecis.udel.edu/~mendoza/"}
+
