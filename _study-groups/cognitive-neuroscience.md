@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cognitive neuroscience
+title: Cognitive Neuroscience
 # leader ID = speaker ID - 1
 leader: 5
 image: banner_BSI_groups.jpg

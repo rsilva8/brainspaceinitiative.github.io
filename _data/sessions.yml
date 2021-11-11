@@ -226,11 +226,13 @@
 -
   id: 020
   title: "Age-related brain changes and risk factors for cognitive decline"
-  description: ""
+  description: "<p>Functional differences in the default mode network and related memory systems are observed in typical aging. Our research, as an example, shows that particularly functional connectivity within the posterior memory system appears affected by aging. Furthermore, we found that negative subsequent memory effects may differentially support memory performance across the lifespan, suggesting a developmental maturation and age-related decline.</p>
+<p>The posterior default mode regions also appear most vulnerable to early Alzheimer’s disease related brain changes. Subjective cognitive decline, the perceived decline in cognitive abilities in the absence of deficits on clinical assessments, is a known risk factor for Alzheimer’s disease. Our work shows that participants with subjective cognitive decline have lower default mode network functional connectivity compared to older adults without, particularly in posterior regions, suggesting possible early functional brain changes in older adults with subjective cognitive decline in similar brain regions as observed in early Alzheimer’s disease. However, as these findings are based on cross-sectional data, they don’t provide insight in actual brain changes in those with subjective cognitive decline. One of our current lines of research aims to address this gap in the literature by examining changes in functional connectivity over a three-year period. In line with our cross-sectional finding, our longitudinal results reveal a steeper decline in default mode network functional connectivity in older adults with subjective cognitive decline than those without.</p>"
   subtype: presentation
   speakers: [122]
   language: en
   complexity: 
+  video: https://www.youtube.com/embed/YsFGInXzJOo
 -
   id: 021
   title: "Precision dynamical mapping using topological data analysis reveals a unique hub-like transition state at rest"
@@ -245,10 +247,105 @@
   video: https://www.youtube.com/embed/CZ9Fhr6Es1Y
 -
   id: 022
+  title: "Cross-Frequency Coupling in the Brain"
+  description: "<p>Cognitive processing and goal-directed behavior are hypothesized to be the result of frequency specific interactions of specialized but widely distributed cortical regions. Cross-frequency coupling (CFC) has been proposed to coordinate the neural dynamics between these distinct frequency bands across spatial and temporal scales.  One particular form of CFC known as phase amplitude coupling (PAC) quantifies the interplay between the phase of a slower oscillation and the envelope of a faster oscillation. The existing methods for assessing PAC have some limitations including limited frequency resolution, sensitivity to noise, data length and sampling rate due to the inherent dependence on bandpass filtering. Moreover, most of the current applications of PAC to neuronal data focuses on average coupling within a single channel. In this talk, I will present some recent developments in the computation of PAC. First, I will introduce a new time-frequency based phase-amplitude coupling measure that addresses the biases encountered by Hilbert transform based PAC measures. Next, I will introduce an extension of PAC analysis from the bivariate to the multivariate case allowing us to look at whole brain cross-frequency coupling networks. Finally, I will present applications of these new PAC computation tools on EEG data collected during error monitoring.</p>
+<b>Recommended Articles:</b>
+<ul><li>T. T. K. Munia and S. Aviyente, “Time-frequency based phase-amplitude coupling measure for neuronal oscillations,” Scientific Reports, 2019. <a href='https://doi.org/10.1038/s41598-019-48870-2'>https://doi.org/10.1038/s41598-019-48870-2</a></li>
+<li>T. T. K. Munia and S. Aviyente, “Comparison of wavelet and RID-Rihaczek based methods for phase-amplitude coupling,” IEEE Signal Processing Letters, vol. 26, pp. 1897-1901, 2019. <a href='https://doi.org/10.1109/LSP.2019.2952025'>https://doi.org/10.1109/LSP.2019.2952025</a></li>
+<li>T. T. K. Munia and S. Aviyente, “Multivariate Analysis of Bivariate Phase-Amplitude Coupling in EEG Data Using Tensor Robust PCA,” IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 1268-1278, 2021. <a href='https://doi.org/10.1109/TNSRE.2021.3092890'>https://doi.org/10.1109/TNSRE.2021.3092890</a></li></ul>"
+  subtype: presentation
+  speakers: [125]
+  language: en
+  complexity: 
+  video: https://www.youtube.com/embed/edyvLObCPTU
+-
+  id: 023
+  title: "The lure of misleading causal statements in functional connectivity research"
+  description: ""
+  subtype: presentation
+  speakers: [126]
+  language: en
+  complexity: 
+-
+  id: 024
+  title: "Turbulence in Human Brain Dynamics"
+  description: "<p>Turbulence is a special dynamical state driving many physical systems by way of its ability to facilitate fast energy/information transfer across scales. These qualities are important for brain function, but it is currently unknown if the brain also exhibits turbulence as a fundamental organisational principle. Using large-scale neuroimaging empirical data from 1003 healthy participants, we demonstrate amplitude turbulence in human brain dynamics. Furthermore, we build a whole-brain model with coupled oscillators to demonstrate that the best fit of our model to the data corresponds to a region of maximally developed amplitude turbulence, which also corresponds to maximal sensitivity to the processing of external stimulations (information capability). The model shows the economy of anatomy by following the Exponential Distance Rule of anatomical connections as a cost-of-wiring principle. This establishes a firm link between turbulence and optimal brain function. Overall, our results reveal a novel way of analysing and modelling whole-brain dynamics that for the first time ever establishes turbulence as a fundamental basic principle of brain organisation.</p>
+  <b>Recommended Articles:</b>
+  <ul>
+<li>Deco, G. and Kringelbach, M.L., 2020. Turbulent-like dynamics in the human brain. Cell reports, 33(10), p.108471. <a href='https://doi.org/10.1016/j.celrep.2020.108471'>https://doi.org/10.1016/j.celrep.2020.108471</a></li>
+<li>Deco, G., Kemp, M. and Kringelbach, M.L., 2021. Leonardo da Vinci and the search for order in neuroscience. Current Biology, 31(11), pp.R704-R709. <a href='https://doi.org/10.1016/j.cub.2021.03.098'>https://doi.org/10.1016/j.cub.2021.03.098</a></li>
+<li>Deco, G., Perl, Y.S., Vuust, P., Tagliazucchi, E., Kennedy, H. and Kringelbach, M.L., 2021. Rare long-range cortical connections enhance human information processing. Current Biology. <a href='https://doi.org/10.1016/j.cub.2021.07.064'>https://doi.org/10.1016/j.cub.2021.07.064</a></li>
+</ul>"
+  subtype: presentation
+  speakers: [127]
+  language: en
+  complexity: 
+-
+  id: 025
   title: "TBA"
   description: ""
   subtype: presentation
-  speakers: [125]
+  speakers: [128]
+  language: en
+  complexity: 
+-
+  id: 026
+  title: "Understanding and manipulating the brain using encoding models"
+  description: ""
+  subtype: presentation
+  speakers: [129]
+  language: en
+  complexity: 
+-
+  id: 027
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [130]
+  language: en
+  complexity: 
+-
+  id: 028
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [131]
+  language: en
+  complexity: 
+-
+  id: 029
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [132]
+  language: en
+  complexity: 
+-
+  id: 030
+  title: "Use-Inspired Music Cognition: Music-Based Interventions for Cognitive and Brain Health"
+  description: "<p>As the field of music cognition is rapidly burgeoning, researchers are beginning to consider how the unique amalgam of scientific and humanistic study of music may translate towards large-scale interventions that may improve cognition for many, including but not limited to people from neurodiverse populations. In this talk I will examine novel ways in which music cognition research may help improve cognition, in ways that move away from overused tropes (e.g. the Mozart Effect) towards future directions of use-inspired music cognition research. As use cases, I will describe some recent studies in my lab that capitalize on new musical technology, developed from first principles from music cognition research, to help those with attention deficits, memory disorders, and Parkinson's Disease. Our results show how music cognition can help refine and target music-based interventions for multiple special populations, by pinpointing ways in which music capitalizes on fundamental operating characteristics of the brain.</p>
+<b>Recommended Articles:</b>
+<ul><li>Tichko, P., Kim, J. C., Large, E., & Loui, P. (2020). Integrating music‐based interventions with Gamma frequency stimulation: Implications for healthy ageing. European Journal of Neuroscience. <a href='https://doi.org/10.1111/ejn.15059'>https://doi.org/10.1111/ejn.15059</a></li> 
+<li>Krotinger, A., & Loui, P. (2021). Rhythm and groove as cognitive mechanisms of dance intervention in Parkinson’s disease. PLoS ONE, 16(5), e0249933. <a href='https://doi.org/10.1371/journal.pone.0249933'>https://doi.org/10.1371/journal.pone.0249933</a></li> 
+<li>Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2020). Music as a coevolved system for social bonding. Behavioral and Brain Sciences, 44, e59. <a href='https://doi.org/10.1017/S0140525X20000333'>https://doi.org/10.1017/S0140525X20000333</a></li></ul>"
+  subtype: presentation
+  speakers: [133]
+  language: en
+  complexity: 
+-
+  id: 031
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [134]
+  language: en
+  complexity: 
+-
+  id: 032
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [135]
   language: en
   complexity: 
 

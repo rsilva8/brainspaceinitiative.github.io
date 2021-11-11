@@ -1,9 +1,16 @@
+# colors
+# BSI Talk Series: #428bca
+# Cognitive Neuroscience Journal Club: #5cb85c
+# #BSIsubspace Virtual Talks:#5bc0de
+# tbd: #f0ad4e
+# tbd: #d9534f
+
 - 
   date: "2020-08-14"
-  dateReadable: "August 14"
+  dateReadable: "August 14, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -12,10 +19,10 @@
     }
 - 
   date: "2020-08-28"
-  dateReadable: "August 28"
+  dateReadable: "August 28, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -24,10 +31,10 @@
     }
 - 
   date: "2020-09-11"
-  dateReadable: "September 11"
+  dateReadable: "September 11, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -36,10 +43,10 @@
     }
 - 
   date: "2020-09-25"
-  dateReadable: "September 25"
+  dateReadable: "September 25, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -48,10 +55,10 @@
     }
 - 
   date: "2020-10-09"
-  dateReadable: "October 9"
+  dateReadable: "October 9, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -60,10 +67,10 @@
     }
 - 
   date: "2020-10-23"
-  dateReadable: "October 23"
+  dateReadable: "October 23, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -72,10 +79,10 @@
     }
 - 
   date: "2020-11-06"
-  dateReadable: "November 6"
+  dateReadable: "November 6, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -84,10 +91,10 @@
     }
 - 
   date: "2020-11-20"
-  dateReadable: "November 20"
+  dateReadable: "November 20, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -96,10 +103,10 @@
     }
 - 
   date: "2020-12-04"
-  dateReadable: "December 4"
+  dateReadable: "December 4, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -108,10 +115,10 @@
     }
 - 
   date: "2020-12-18"
-  dateReadable: "December 18"
+  dateReadable: "December 18, 2020"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -120,10 +127,10 @@
     }
 - 
   date: "2021-01-15"
-  dateReadable: "January 15"
+  dateReadable: "January 15, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -132,10 +139,10 @@
     }
 - 
   date: "2021-01-29"
-  dateReadable: "January 29"
+  dateReadable: "January 29, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -144,10 +151,10 @@
     }
 - 
   date: "2021-02-26"
-  dateReadable: "February 26"
+  dateReadable: "February 26, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -156,10 +163,10 @@
     }
 - 
   date: "2021-03-26"
-  dateReadable: "March 26"
+  dateReadable: "March 26, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -168,10 +175,10 @@
     }
 - 
   date: "2021-04-30"
-  dateReadable: "April 30"
+  dateReadable: "April 30, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -180,10 +187,10 @@
     }
 - 
   date: "2021-05-28"
-  dateReadable: "May 28"
+  dateReadable: "May 28, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -192,10 +199,10 @@
     }
 - 
   date: "2021-06-25"
-  dateReadable: "June 25"
+  dateReadable: "June 25, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -204,10 +211,10 @@
     }
 - 
   date: "2021-07-30"
-  dateReadable: "July 30"
+  dateReadable: "July 30, 2021"
   past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -216,10 +223,10 @@
     }
 - 
   date: "2021-08-27"
-  dateReadable: "August 27"
-  past: false
+  dateReadable: "August 27, 2021"
+  past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -228,10 +235,10 @@
     }
 - 
   date: "2021-09-24"
-  dateReadable: "September 24"
-  past: false
+  dateReadable: "September 24, 2021"
+  past: true
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
@@ -240,13 +247,133 @@
     }
 - 
   date: "2021-10-29"
-  dateReadable: "October 29"
+  dateReadable: "October 29, 2021"
   past: false
   tracks: 
-    - {title: "Neuroimaging", color: "#90be4e"}
+    - {title: "BSI Talk Series", color: "#428bca"}
   timeslots:
     - {
     	startTime: "11:00",
     	endTime: "12:00",
     	sessionIds: [022]
+    }
+- 
+  date: "2021-11-05"
+  dateReadable: "November 05, 2021"
+  past: false
+  tracks: 
+    - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [030]
+    }
+- 
+  date: "2021-11-10"
+  dateReadable: "November 10, 2021"
+  past: false
+  tracks: 
+    - {title: "#BSIsubspace Virtual Talks", color: "#5bc0de"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [031]
+    }
+- 
+  date: "2021-11-19"
+  dateReadable: "November 19, 2021"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [023]
+    }
+- 
+  date: "2021-12-03"
+  dateReadable: "December 03, 2021"
+  past: false
+  tracks: 
+    - {title: "Cognitive Neuroscience Journal Club", color: "#5cb85c"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [032]
+    }
+- 
+  date: "2021-12-17"
+  dateReadable: "December 17, 2021"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [024]
+    }
+- 
+  date: "2022-01-28"
+  dateReadable: "January 28, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [025]
+    }
+- 
+  date: "2022-02-25"
+  dateReadable: "February 25, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [026]
+    }
+- 
+  date: "2022-03-25"
+  dateReadable: "March 25, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [027]
+    }
+- 
+  date: "2022-04-29"
+  dateReadable: "April 29, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [028]
+    }
+- 
+  date: "2022-05-27"
+  dateReadable: "May 27, 2022"
+  past: false
+  tracks: 
+    - {title: "BSI Talk Series", color: "#428bca"}
+  timeslots:
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [029]
     }

@@ -505,10 +505,10 @@
   name: "Jessica"
   surname: "Damoiseaux"
   company: "Wayne State University"
-  title: " Associate Professor"
+  title: " Associate Professor, Institute of Gerontology and Department of Psychology"
   team: false
-  bio: ""
-  thumbnailUrl: 'Damoiseaux.jpg'
+  bio: "Dr. Jessica Damoiseaux is an Associate Professor in the Institute of Gerontology and Department of Psychology at Wayne State University. Dr. Damoiseaux received her MSc in Psychology from Utrecht University and PhD in Cognitive Neuroscience from VU University Amsterdam. She then went on to do a postdoctoral fellowship at Stanford University. She currently heads the Connect Lab. Her research investigates the application of MRI-derived brain measures, with an emphasis on brain network approaches, to study typical aging and early detection of neurodegenerative disease."
+  thumbnailUrl: 'JDamoiseaux2019.jpeg'
   rockstar: true
   social: 
     - {name: "site", link: "https://clasprofiles.wayne.edu/profile/fi9526"}
@@ -541,6 +541,18 @@
   id: 125
   name: "Selin"
   surname: "Aviyente"
+  company: "Department of Electrical and Computer Engineering, Michigan State University"
+  title: "Professor"
+  team: false
+  bio: "Selin Aviyente received her B.S. degree with high honors in Electrical and Electronics engineering from Bogazici University, Istanbul in 1997. She received her M.S. and Ph.D. degrees, both in Electrical Engineering: Systems, from the University of Michigan, Ann Arbor, in 1999 and 2002, respectively. She joined the Department of Electrical and Computer Engineering at Michigan State University in 2002, where she is currently a Professor and Associate Chair for Undergraduate Studies. Her research focuses on statistical and nonstationary signal processing, higher-order data representations and network science with applications to neurophysiological signals. She has authored more than 150 peer-reviewed journal and conference papers. She is the recipient of a 2005 Withrow Teaching Excellence Award, a 2008 NSF CAREER Award and a 2021 Withrow Excellence in Diversity Award. She is currently serving on several technical committees of IEEE Signal Processing Society and is the vice-chair of IEEE Bioimaging and Signal Processing (BISP) technical committee. She is an Associate Editor for IEEE Open Journal of Signal Processing and Digital Signal Processing."
+  thumbnailUrl: 'aviyente2015.jpg'
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://sites.google.com/msu.edu/aviyente/home"}
+- 
+  id: 126
+  name: "Konrad"
+  surname: "Kording"
   company: ""
   title: ""
   team: false
@@ -548,4 +560,102 @@
   thumbnailUrl: ''
   rockstar: true
   social: 
-    - {name: "", link: ""}
+- 
+  id: 127
+  name: "Gustavo"
+  surname: "Deco"
+  company: "Institució Catalana de Recerca i Estudis Avançats (ICREA) and Pompeu Fabra University (UPF)"
+  title: "Professor"
+  team: false
+  bio: "Gustavo Deco is Research Professor at the Institució Catalana de Recerca i Estudis Avançats (ICREA) and Professor (Catedrático)  at the Pompeu Fabra University (UPF) where he leads the Computational Neuroscience group. He is also Director of the Center of Brain and Cognition (UPF). In 1987 he received his PhD in Physics for his thesis on Relativistic Atomic Collisions. In 1987, he was a postdoc at the University of Bordeaux in France. From 1988 to 1990, he obtained a postdoc of the Alexander von Humboldt Foundation at the University of Giessen in Germany. From 1990 to 2003, he leads the Computational Neuroscience Group at Siemens Corporate Research Center in Munich, Germany. He obtained in 1997 his Habilitation (maximal academical degree in Germany) in Computer Science (Dr. rer. nat. habil.) at the Technical University of Munich for his thesis on Neural Learning. In 2001, he received his PhD in Psychology at the Ludwig-Maximilians-University of Munich."
+  thumbnailUrl: 'deco.jpg'
+  rockstar: true
+  social: 
+- 
+  id: 128
+  name: "Russ"
+  surname: "Poldrack"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 129
+  name: "Amy"
+  surname: "Kuceyeski"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 130
+  name: "Luiz"
+  surname: "Pessoa"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 131
+  name: "Janine"
+  surname: "Bijsterbosch"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 132
+  name: "Armin"
+  surname: "Raznahan"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 133
+  name: "Psyche"
+  surname: "Loui"
+  company: "Northeastern University"
+  title: "Associate Professor of Creativity and Creative Practice in the Department of Music"
+  team: false
+  bio: "Psyche Loui is the Associate Professor of Creativity and Creative Practice in the Department of Music at Northeastern University. She graduated from University of California, Berkeley with her PhD in Psychology, and attended Duke University as an undergraduate with degrees in Psychology and Music. In the MIND (Music, Imaging, and Neural Dynamics) lab, Dr. Loui studies the neuroscience of music perception and cognition, tackling questions such as: What gives people the chills when they are moved by a piece of music? How does connectivity in the brain enable or disrupt music perception? Can music be used to help those with neurological and psychiatric disorders? Dr. Loui’s work has received multiple grants from the Grammy foundation, a young investigator award from the Positive Neuroscience Institute, and a Career award from the National Science Foundation, and has been featured by the Associated Press, New York Times, Boston Globe, BBC, CNN, the Scientist magazine, and other news outlets."
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 134
+  name: "Benjamin"
+  surname: "Risk"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
+- 
+  id: 135
+  name: "Maximiliana"
+  surname: "Rifkin"
+  company: ""
+  title: ""
+  team: false
+  bio: ""
+  thumbnailUrl: ''
+  rockstar: true
+  social: 
